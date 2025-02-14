@@ -6170,7 +6170,7 @@ msgstr "ویژگی های"
 msgid "Auditor"
 msgstr "ممیز، مامور رسیدگی"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:68
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_connector.py:68
 msgid "Authentication Failed"
 msgstr "احراز هویت ناموفق بود"
 
@@ -7106,7 +7106,7 @@ msgstr "تراز باید"
 #: erpnext/accounts/doctype/payment_request/payment_request.json
 #: erpnext/accounts/report/account_balance/account_balance.js:39
 #: erpnext/accounts/workspace/accounting/accounting.json
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:99
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:99
 #: erpnext/setup/doctype/employee/employee.json
 msgid "Bank"
 msgstr "بانک"
@@ -7307,7 +7307,7 @@ msgstr "موجودی صورتحساب بانکی طبق دفتر کل"
 
 #. Name of a DocType
 #: erpnext/accounts/doctype/bank_transaction/bank_transaction.json
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:32
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:32
 msgid "Bank Transaction"
 msgstr "تراکنش بانکی"
 
@@ -7347,15 +7347,15 @@ msgstr "تراکنش بانکی {0} به روز شد"
 msgid "Bank account cannot be named as {0}"
 msgstr "حساب بانکی نمی تواند به عنوان {0} نامگذاری شود"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:146
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:146
 msgid "Bank account {0} already exists and could not be created again"
 msgstr "حساب بانکی {0} از قبل وجود دارد و نمی توان دوباره ایجاد کرد"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:158
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:158
 msgid "Bank accounts added"
 msgstr "حساب های بانکی اضافه شد"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:311
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:311
 msgid "Bank transaction creation error"
 msgstr "خطای ایجاد تراکنش بانکی"
 
@@ -9365,7 +9365,7 @@ msgstr "نمی توان شماره ردیف را بزرگتر یا مساوی ب
 msgid "Cannot retrieve link token for update. Check Error Log for more information"
 msgstr "نمی توان توکن پیوند را برای به روز رسانی بازیابی کرد. برای اطلاعات بیشتر Log خطا را بررسی کنید"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:68
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:68
 msgid "Cannot retrieve link token. Check Error Log for more information"
 msgstr "توکن پیوند بازیابی نمی شود. برای اطلاعات بیشتر Log خطا را بررسی کنید"
 
@@ -10774,7 +10774,7 @@ msgstr "شرکت ها"
 #: erpnext/crm/report/lost_opportunity/lost_opportunity.js:8
 #: erpnext/crm/report/opportunity_summary_by_sales_stage/opportunity_summary_by_sales_stage.js:57
 #: erpnext/crm/report/sales_pipeline_analytics/sales_pipeline_analytics.js:51
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:133
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:133
 #: erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.json
 #: erpnext/maintenance/doctype/maintenance_visit/maintenance_visit.json
 #: erpnext/manufacturing/doctype/blanket_order/blanket_order.json
@@ -11906,7 +11906,7 @@ msgstr "محتوا"
 msgid "Content Type"
 msgstr "نوع محتوا"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:162
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:162
 #: erpnext/public/js/controllers/transaction.js:2289
 #: erpnext/selling/doctype/quotation/quotation.js:345
 msgid "Continue"
@@ -12523,7 +12523,7 @@ msgstr "به‌روزرسانی خودکار شیفت‌ها ممکن نیست. 
 msgid "Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again"
 msgstr "یادداشت بستانکاری به‌طور خودکار ایجاد نشد، لطفاً علامت «صدور یادداشت بستانکاری» را بردارید و دوباره ارسال کنید"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:353
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:353
 msgid "Could not detect the Company for updating Bank Accounts"
 msgstr "شرکت برای به‌روزرسانی حساب‌های بانکی شناسایی نشد"
 
@@ -18527,7 +18527,7 @@ msgstr "فعال کردن حسابداری تخفیف برای فروش"
 
 #. Label of the enable_european_access (Check) field in DocType 'Plaid
 #. Settings'
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Enable European Access"
 msgstr "دسترسی اروپایی را فعال کنید"
 
@@ -18602,7 +18602,7 @@ msgstr "فعال کردن اعمال SLA در هر {0}"
 #. Label of the enabled (Check) field in DocType 'Price List'
 #. Label of the enabled (Check) field in DocType 'Service Level Agreement'
 #: erpnext/accounts/doctype/mode_of_payment/mode_of_payment.json
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 #: erpnext/manufacturing/doctype/workstation_working_hour/workstation_working_hour.json
 #: erpnext/setup/doctype/email_digest/email_digest.json
 #: erpnext/setup/doctype/sales_person/sales_person.json
@@ -25085,7 +25085,7 @@ msgid "Is Billable"
 msgstr "قابل پرداخت است"
 
 #. Label of the is_billing_contact (Check) field in DocType 'Contact'
-#: erpnext/quantumerp_integrations/custom/contact.json
+#: erpnext/quantum_erp_integrations/custom/contact.json
 msgid "Is Billing Contact"
 msgstr "تماس صورتحساب است"
 
@@ -28099,7 +28099,7 @@ msgstr ""
 msgid "Link Options"
 msgstr "گزینه‌های پیوند"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:15
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:15
 msgid "Link a new bank account"
 msgstr "پیوند یک حساب بانکی جدید"
 
@@ -36004,21 +36004,21 @@ msgid "Plaid Access Token"
 msgstr "توکن دسترسی شطرنجی"
 
 #. Label of the plaid_client_id (Data) field in DocType 'Plaid Settings'
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Client ID"
 msgstr "شناسه مشتری Plaid"
 
 #. Label of the plaid_env (Select) field in DocType 'Plaid Settings'
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Environment"
 msgstr "محیط شطرنجی"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:154
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:178
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:154
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:178
 msgid "Plaid Link Failed"
 msgstr "پیوند Plaid ناموفق بود"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:252
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:252
 msgid "Plaid Link Refresh Required"
 msgstr "بازخوانی پیوند شطرنجی مورد نیاز است"
 
@@ -36027,18 +36027,18 @@ msgid "Plaid Link Updated"
 msgstr "پیوند شطرنجی به روز شد"
 
 #. Label of the plaid_secret (Password) field in DocType 'Plaid Settings'
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Secret"
 msgstr "راز شطرنجی"
 
 #. Label of a Link in the Accounting Workspace
 #. Name of a DocType
 #: erpnext/accounts/workspace/accounting/accounting.json
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Settings"
 msgstr "تنظیمات شطرنجی"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:227
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:227
 msgid "Plaid transactions sync error"
 msgstr "خطای همگام سازی تراکنش های پرداخت شده"
 
@@ -36283,7 +36283,7 @@ msgstr "لطفاً با عملیات یا هزینه عملیاتی مبتنی �
 msgid "Please check the error message and take necessary actions to fix the error and then restart the reposting again."
 msgstr "لطفاً پیام خطا را بررسی کنید و اقدامات لازم را برای رفع خطا انجام دهید و سپس ارسال مجدد را مجدداً راه‌اندازی کنید."
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:65
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_connector.py:65
 msgid "Please check your Plaid client ID and secret values"
 msgstr "لطفاً شناسه مشتری Plaid و مقادیر مخفی خود را بررسی کنید"
 
@@ -36622,7 +36622,7 @@ msgstr "لطفا آیتم‌ها را از یادداشت تحویل بردار�
 msgid "Please rectify and try again."
 msgstr "لطفاً اصلاح کنید و دوباره امتحان کنید."
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:251
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:251
 msgid "Please refresh or reset the Plaid linking of the Bank {}."
 msgstr "لطفاً پیوند Plaid بانک {} را بازخوانی یا بازنشانی کنید."
 
@@ -37173,7 +37173,7 @@ msgstr ""
 msgid "Please set {0} to {1}, the same account that was used in the original invoice {2}."
 msgstr ""
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:97
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:97
 msgid "Please setup and enable a group account with the Account Type - {0} for the company {1}"
 msgstr ""
 
@@ -43370,7 +43370,7 @@ msgstr "بازنشانی"
 msgid "Reset Company Default Values"
 msgstr "بازنشانی مقادیر پیش فرض شرکت"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:19
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:19
 msgid "Reset Plaid Link"
 msgstr "بازنشانی پیوند Plaid"
 
@@ -46681,7 +46681,7 @@ msgstr "یک تامین کننده انتخاب کنید"
 msgid "Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only."
 msgstr "یک تامین کننده از تامین کنندگان پیش فرض موارد زیر انتخاب کنید. در صورت انتخاب، یک سفارش خرید فقط در برابر اقلام متعلق به تامین کننده منتخب انجام می شود."
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:161
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:161
 msgid "Select a company"
 msgstr "یک شرکت را انتخاب کنید"
 
@@ -51567,16 +51567,16 @@ msgstr "جابجایی بین حالت های پرداخت"
 msgid "Symbol"
 msgstr "سمبل"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:23
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:23
 msgid "Sync Now"
 msgstr "اکنون همگام سازی کنید"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:36
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:36
 msgid "Sync Started"
 msgstr "همگام سازی شروع شد"
 
 #. Label of the automatic_sync (Check) field in DocType 'Plaid Settings'
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Synchronize all accounts every hour"
 msgstr "هر ساعت همه حساب ها را همگام سازی کنید"
 
@@ -51656,7 +51656,7 @@ msgstr "هر ساعت همه حساب ها را همگام سازی کنید"
 #: erpnext/crm/doctype/prospect/prospect.json
 #: erpnext/edi/doctype/code_list/code_list.json
 #: erpnext/edi/doctype/common_code/common_code.json
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 #: erpnext/manufacturing/doctype/blanket_order/blanket_order.json
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log.json
 #: erpnext/manufacturing/doctype/downtime_entry/downtime_entry.json
@@ -53268,7 +53268,7 @@ msgstr ""
 msgid "The stock has been reserved for the following Items and Warehouses, un-reserve the same to {0} the Stock Reconciliation: <br /><br /> {1}"
 msgstr "موجودی برای اقلام و انبارهای زیر رزرو شده است، همان را در {0} تطبیق موجودی لغو کنید: <br /><br /> {1}"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:37
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:37
 msgid "The sync has started in the background, please check the {0} list for new records."
 msgstr "همگام سازی در پس زمینه شروع شده است، لطفاً لیست {0} را برای رکوردهای جدید بررسی کنید."
 
@@ -53403,7 +53403,7 @@ msgstr "هیچ دسته ای در برابر {0} یافت نشد: {1}"
 msgid "There must be atleast 1 Finished Good in this Stock Entry"
 msgstr "باید حداقل 1 کالای تمام شده در این ثبت موجودی وجود داشته باشد"
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:153
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:153
 msgid "There was an error creating Bank Account while linking with Plaid."
 msgstr "هنگام پیوند با Plaid خطایی در ایجاد حساب بانکی روی داد."
 
@@ -53411,16 +53411,16 @@ msgstr "هنگام پیوند با Plaid خطایی در ایجاد حساب ب�
 msgid "There was an error saving the document."
 msgstr "هنگام ذخیره سند خطایی روی داد."
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:250
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:250
 msgid "There was an error syncing transactions."
 msgstr "هنگام همگام‌سازی تراکنش‌ها خطایی روی داد."
 
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:175
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:175
 msgid "There was an error updating Bank Account {} while linking with Plaid."
 msgstr "هنگام به‌روزرسانی حساب بانکی {} هنگام پیوند با Plaid خطایی روی داد."
 
 #: erpnext/accounts/doctype/bank/bank.js:115
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:119
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:119
 msgid "There was an issue connecting to Plaid's authentication server. Check browser console for more information"
 msgstr "مشکلی در اتصال به سرور تأیید اعتبار Plaid وجود داشت. برای اطلاعات بیشتر کنسول مرورگر را بررسی کنید"
 
@@ -56361,7 +56361,7 @@ msgstr "تا زمان"
 msgid "Unverified"
 msgstr "تایید نشده"
 
-#: erpnext/quantumerp_integrations/utils.py:22
+#: erpnext/quantum_erp_integrations/utils.py:22
 msgid "Unverified Webhook Data"
 msgstr "داده های وب هوک تایید نشده"
 
@@ -59500,7 +59500,7 @@ msgstr "شرح"
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "development"
 msgstr "توسعه"
 
@@ -59680,7 +59680,7 @@ msgstr "نام ردیف آیتم‌های باندل محصول در سفارش 
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "production"
 msgstr "تولید"
 
@@ -59724,7 +59724,7 @@ msgstr "rgt"
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "sandbox"
 msgstr "جعبه شنی"
 

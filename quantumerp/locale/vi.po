@@ -1571,7 +1571,7 @@ msgid "API Endpoint"
 msgstr "Điểm cuối API"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "API Endpoint"
 msgstr "Điểm cuối API"
@@ -1751,7 +1751,7 @@ msgid "Access Key is required for Service Provider: {0}"
 msgstr ""
 
 #. Label of a Small Text field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Access Token"
 msgstr "Mã truy cập"
@@ -2966,7 +2966,7 @@ msgid "Accounts"
 msgstr "Tài khoản kế toán"
 
 #. Label of a Section Break field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Accounts"
 msgstr "Tài khoản kế toán"
@@ -4846,7 +4846,7 @@ msgid "Address used to determine Tax Category in transactions"
 msgstr "Địa chỉ dùng để xác định Hạng mục thuế trong giao dịch"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Addresses"
 msgstr "Địa chỉ"
@@ -7166,7 +7166,7 @@ msgstr "Amt"
 msgid "An error has been appeared while reposting item valuation via {0}"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:26
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:26
 msgctxt "<a href='/app/error-log' class='variant-click'>Error Log</a>"
 msgid "An error has occurred during {0}. Check {1} for more details"
 msgstr ""
@@ -7370,7 +7370,7 @@ msgid "Applicable on booking actual expenses"
 msgstr "Áp dụng khi đặt chi phí thực tế"
 
 #. Label of a Section Break field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Application Settings"
 msgstr "Cài đặt ứng dụng"
@@ -8713,8 +8713,8 @@ msgstr "Thuộc tính"
 msgid "Auditor"
 msgstr "Người kiểm tra"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:68
-#: quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:85
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_connector.py:68
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_connector.py:85
 msgid "Authentication Failed"
 msgstr "Quá trình xác thực đã thất bại"
 
@@ -8730,7 +8730,7 @@ msgid "Authorization Control"
 msgstr "Cho phép điều khiển"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Authorization Endpoint"
 msgstr "Điểm cuối ủy quyền"
@@ -8741,13 +8741,13 @@ msgid "Authorization Rule"
 msgstr "Quy tắc ủy quyền"
 
 #. Label of a Section Break field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Authorization Settings"
 msgstr "Cài đặt ủy quyền"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Authorization URL"
 msgstr "URL ủy quyền"
@@ -10201,15 +10201,15 @@ msgstr ""
 msgid "Bank account cannot be named as {0}"
 msgstr "Tài khoản ngân hàng không thể được đặt tên là {0}"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:130
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:130
 msgid "Bank account {0} already exists and could not be created again"
 msgstr "Tài khoản ngân hàng {0} đã tồn tại và không thể tạo lại"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:134
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:134
 msgid "Bank accounts added"
 msgstr "Đã thêm tài khoản ngân hàng"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:297
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:297
 msgid "Bank transaction creation error"
 msgstr "Lỗi tạo giao dịch ngân hàng"
 
@@ -12770,7 +12770,7 @@ msgstr "Không có thể tham khảo số lượng hàng lớn hơn hoặc bằn
 msgid "Cannot retrieve link token for update. Check Error Log for more information"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:60
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:60
 msgid "Cannot retrieve link token. Check Error Log for more information"
 msgstr ""
 
@@ -13270,7 +13270,7 @@ msgid "Chart of Accounts"
 msgstr "Biểu đồ tài khoản"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Chart of Accounts"
 msgstr "Biểu đồ tài khoản"
@@ -13605,13 +13605,13 @@ msgid "Client"
 msgstr "Khách hàng"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Client ID"
 msgstr "Tài khoản khách hàng"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Client Secret"
 msgstr "BÍ mật khách hàng"
@@ -13869,7 +13869,7 @@ msgid "Code"
 msgstr "Code"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Code"
 msgstr "Code"
@@ -14168,7 +14168,7 @@ msgstr "Các công ty"
 #: crm/report/lost_opportunity/lost_opportunity.js:9
 #: crm/report/opportunity_summary_by_sales_stage/opportunity_summary_by_sales_stage.js:59
 #: crm/report/sales_pipeline_analytics/sales_pipeline_analytics.js:52
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:119
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:119
 #: manufacturing/doctype/bom_creator/bom_creator.js:52
 #: manufacturing/report/cost_of_poor_quality_report/cost_of_poor_quality_report.js:8
 #: manufacturing/report/exponential_smoothing_forecasting/exponential_smoothing_forecasting.js:9
@@ -14784,7 +14784,7 @@ msgid "Company"
 msgstr "Công ty"
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Company"
 msgstr "Công ty"
@@ -15183,7 +15183,7 @@ msgid "Company Name"
 msgstr "Tên công ty"
 
 #. Description of the 'Tally Company' (Data) field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Company Name as per Imported Tally Data"
 msgstr "Tên công ty theo Dữ liệu kiểm đếm đã nhập"
@@ -15197,7 +15197,7 @@ msgid "Company Not Linked"
 msgstr "Công ty không được liên kết"
 
 #. Label of a Section Break field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Company Settings"
 msgstr "Thiết lập công ty"
@@ -15288,7 +15288,7 @@ msgctxt "Purchase Invoice"
 msgid "Company which internal supplier represents"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:80
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:80
 msgid "Company {0} already exists. Continuing will overwrite the Company and Chart of Accounts"
 msgstr "Công ty {0} đã tồn tại. Tiếp tục sẽ ghi đè Công ty và Biểu đồ tài khoản"
 
@@ -15353,7 +15353,7 @@ msgctxt "Quotation"
 msgid "Competitors"
 msgstr ""
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:61
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:61
 msgid "Complete"
 msgstr "Hoàn chỉnh"
 
@@ -15364,7 +15364,7 @@ msgid "Complete"
 msgstr "Hoàn chỉnh"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Complete"
 msgstr "Hoàn chỉnh"
@@ -15793,27 +15793,27 @@ msgctxt "Employee"
 msgid "Confirmation Date"
 msgstr "Ngày Xác nhận"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:37
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:45
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:37
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:45
 msgid "Connect to Quickbooks"
 msgstr "Kết nối với Quickbooks"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:59
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:59
 msgid "Connected to QuickBooks"
 msgstr "Đã kết nối với QuickBooks"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Connected to QuickBooks"
 msgstr "Đã kết nối với QuickBooks"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:58
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:58
 msgid "Connecting to QuickBooks"
 msgstr "Kết nối với QuickBooks"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Connecting to QuickBooks"
 msgstr "Kết nối với QuickBooks"
@@ -16639,7 +16639,7 @@ msgctxt "Issue"
 msgid "Content Type"
 msgstr "Loại nội dung"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:136
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:136
 #: public/js/controllers/transaction.js:2044
 #: selling/doctype/quotation/quotation.js:344
 msgid "Continue"
@@ -17601,7 +17601,7 @@ msgstr ""
 msgid "Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again"
 msgstr "Không thể tự động tạo Ghi chú tín dụng, vui lòng bỏ chọn &#39;Phát hành ghi chú tín dụng&#39; và gửi lại"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:339
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:339
 msgid "Could not detect the Company for updating Bank Accounts"
 msgstr ""
 
@@ -18294,7 +18294,7 @@ msgstr ""
 msgid "Creating Accounts..."
 msgstr "Tạo tài khoản ..."
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:398
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:398
 msgid "Creating Company and Importing Chart of Accounts"
 msgstr "Tạo công ty và nhập biểu đồ tài khoản"
 
@@ -18629,7 +18629,7 @@ msgstr "Nợ"
 
 #. Description of the 'Tally Creditors Account' (Data) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Creditors Account set in Tally"
 msgstr "Tài khoản chủ nợ được đặt trong Kiểm đếm"
@@ -20498,7 +20498,7 @@ msgid "Data Import and Settings"
 msgstr "Nhập và cài đặt dữ liệu"
 
 #. Description of the 'Master Data' (Attach) field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Data exported from Tally that consists of the Chart of Accounts, Customers, Suppliers, Addresses, Items and UOMs"
 msgstr "Dữ liệu được xuất từ Tally bao gồm Biểu đồ Tài khoản, Khách hàng, Nhà cung cấp, Địa chỉ, Mặt hàng và UOM"
@@ -20787,14 +20787,14 @@ msgid "Day"
 msgstr "ngày"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Day Book Data"
 msgstr "Dữ liệu sách ngày"
 
 #. Description of the 'Day Book Data' (Attach) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Day Book Data exported from Tally that consists of all historic transactions"
 msgstr "Dữ liệu sổ sách trong ngày được xuất từ Tally bao gồm tất cả các giao dịch lịch sử"
@@ -21048,7 +21048,7 @@ msgstr "Con nợ"
 
 #. Description of the 'Tally Debtors Account' (Data) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Debtors Account set in Tally"
 msgstr "Tài khoản Nợ được đặt trong Kiểm đếm"
@@ -21288,13 +21288,13 @@ msgid "Default Cost Center"
 msgstr "Bộ phận chi phí mặc định"
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Default Cost Center"
 msgstr "Bộ phận chi phí mặc định"
 
 #. Label of a Link field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Default Cost Center"
 msgstr "Bộ phận chi phí mặc định"
@@ -21570,7 +21570,7 @@ msgid "Default Receivable Account"
 msgstr "Mặc định Tài khoản phải thu"
 
 #. Label of a Link field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Default Round Off Account"
 msgstr "Tài khoản Vòng tắt Mặc định"
@@ -21610,7 +21610,7 @@ msgid "Default Service Level Agreement for {0} already exists."
 msgstr ""
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Default Shipping Account"
 msgstr "Tài khoản giao hàng mặc định"
@@ -21658,7 +21658,7 @@ msgid "Default Territory"
 msgstr "Địa bàn mặc định"
 
 #. Label of a Link field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Default UOM"
 msgstr "UOM mặc định"
@@ -21700,7 +21700,7 @@ msgid "Default Warehouse"
 msgstr "Kho mặc định"
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Default Warehouse"
 msgstr "Kho mặc định"
@@ -21724,7 +21724,7 @@ msgid "Default Warehouse"
 msgstr "Kho mặc định"
 
 #. Label of a Link field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Default Warehouse"
 msgstr "Kho mặc định"
@@ -24577,9 +24577,9 @@ msgctxt "Bank Statement Import"
 msgid "Don't Send Emails"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:322
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:407
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:583
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:322
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:407
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:583
 #: public/js/utils/crm_activities.js:211
 msgid "Done"
 msgstr "Hoàn thành"
@@ -25293,7 +25293,7 @@ msgid "EAN-8"
 msgstr ""
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Quantum ERP Company"
 msgstr "Công ty Quantum ERP"
@@ -26032,7 +26032,7 @@ msgid "Enable Discount Accounting for Selling"
 msgstr ""
 
 #. Label of a Check field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Enable European Access"
 msgstr "Bật quyền truy cập Châu Âu"
@@ -26084,7 +26084,7 @@ msgid "Enabled"
 msgstr "Đã bật"
 
 #. Label of a Check field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Enabled"
 msgstr "Đã bật"
@@ -26539,7 +26539,7 @@ msgstr ""
 msgid "Error evaluating the criteria formula"
 msgstr "Lỗi khi đánh giá công thức tiêu chuẩn"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:157
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:157
 msgid "Error occured while parsing Chart of Accounts: Please make sure that no two accounts have the same name"
 msgstr "Đã xảy ra lỗi khi phân tích cú pháp Biểu đồ tài khoản: Vui lòng đảm bảo rằng không có hai tài khoản nào có cùng tên"
 
@@ -27445,7 +27445,7 @@ msgstr ""
 msgid "FIFO/LIFO Queue"
 msgstr ""
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:62
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:62
 #: manufacturing/doctype/bom_creator/bom_creator_list.js:13
 msgid "Failed"
 msgstr "Thất bại"
@@ -27540,7 +27540,7 @@ msgid "Failed"
 msgstr "Thất bại"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Failed"
 msgstr "Thất bại"
@@ -27563,7 +27563,7 @@ msgid "Failed Entries"
 msgstr ""
 
 #. Label of a HTML field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Failed Import Log"
 msgstr "Nhật ký nhập không thành công"
@@ -27684,7 +27684,7 @@ msgctxt "Process Statement Of Accounts"
 msgid "Fetch Customers"
 msgstr "Tìm nạp khách hàng"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:50
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:50
 msgid "Fetch Data"
 msgstr "Tìm nạp dữ liệu"
 
@@ -28395,7 +28395,7 @@ msgid "Fixed Deposit Number"
 msgstr "Số tiền gửi cố định"
 
 #. Label of a HTML field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Fixed Error Log"
 msgstr "Nhật ký lỗi đã sửa"
@@ -32064,7 +32064,7 @@ msgstr "Nhập dữ liệu"
 msgid "Import Data from Spreadsheet"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:66
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:66
 msgid "Import Day Book Data"
 msgstr "Nhập dữ liệu sách ngày"
 
@@ -32093,7 +32093,7 @@ msgid "Import Log"
 msgstr "Nhập khẩu Đăng nhập"
 
 #. Label of a Section Break field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Import Log"
 msgstr "Nhập khẩu Đăng nhập"
@@ -32104,7 +32104,7 @@ msgctxt "Bank Statement Import"
 msgid "Import Log Preview"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:54
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:54
 msgid "Import Master Data"
 msgstr "Nhập dữ liệu chủ"
 
@@ -32155,11 +32155,11 @@ msgstr ""
 msgid "Import in Bulk"
 msgstr "Nhập khẩu với số lượng lớn"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:404
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:404
 msgid "Importing Items and UOMs"
 msgstr "Nhập vật phẩm và UOM"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:401
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:401
 msgid "Importing Parties and Addresses"
 msgstr "Nhập khẩu các bên và địa chỉ"
 
@@ -32253,7 +32253,7 @@ msgstr "Trong sản xuất"
 #: accounts/doctype/bank_statement_import/bank_statement_import.js:65
 #: accounts/doctype/ledger_merge/ledger_merge.js:19
 #: accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.js:36
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:60
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:60
 #: manufacturing/doctype/bom_creator/bom_creator_list.js:7
 msgid "In Progress"
 msgstr "Trong tiến trình"
@@ -32296,7 +32296,7 @@ msgid "In Progress"
 msgstr "Trong tiến trình"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "In Progress"
 msgstr "Trong tiến trình"
@@ -34245,13 +34245,13 @@ msgid "Is Customer Provided Item"
 msgstr "Là khách hàng cung cấp mặt hàng"
 
 #. Label of a Check field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Is Day Book Data Imported"
 msgstr "Là dữ liệu sách ngày nhập khẩu"
 
 #. Label of a Check field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Is Day Book Data Processed"
 msgstr "Dữ liệu sổ ngày được xử lý"
@@ -34591,13 +34591,13 @@ msgid "Is Mandatory"
 msgstr "Bắt buộc"
 
 #. Label of a Check field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Is Master Data Imported"
 msgstr "Dữ liệu chủ được nhập"
 
 #. Label of a Check field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Is Master Data Processed"
 msgstr "Dữ liệu chủ được xử lý"
@@ -37262,7 +37262,7 @@ msgid "Items"
 msgstr "Khoản mục"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Items"
 msgstr "Khoản mục"
@@ -38612,7 +38612,7 @@ msgctxt "Support Search Source"
 msgid "Link Options"
 msgstr "Tùy chọn liên kết"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:15
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:15
 msgid "Link a new bank account"
 msgstr ""
 
@@ -40339,7 +40339,7 @@ msgid "Master"
 msgstr "Tổng"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Master Data"
 msgstr "Dữ liệu chủ"
@@ -47025,7 +47025,7 @@ msgid "Partially ordered"
 msgstr "Nhiều thứ tự"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Parties"
 msgstr "Các bên"
@@ -49128,23 +49128,23 @@ msgid "Plaid Access Token"
 msgstr "Mã thông báo truy cập kẻ sọc"
 
 #. Label of a Data field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Plaid Client ID"
 msgstr "ID khách hàng kẻ sọc"
 
 #. Label of a Select field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Plaid Environment"
 msgstr "Môi trường kẻ sọc"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:136
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:160
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:136
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:160
 msgid "Plaid Link Failed"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:238
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:238
 msgid "Plaid Link Refresh Required"
 msgstr ""
 
@@ -49153,13 +49153,13 @@ msgid "Plaid Link Updated"
 msgstr ""
 
 #. Label of a Password field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Plaid Secret"
 msgstr "Bí mật kẻ sọc"
 
 #. Name of a DocType
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Settings"
 msgstr "Cài đặt kẻ sọc"
 
@@ -49169,7 +49169,7 @@ msgctxt "Plaid Settings"
 msgid "Plaid Settings"
 msgstr "Cài đặt kẻ sọc"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:211
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:211
 msgid "Plaid transactions sync error"
 msgstr "Lỗi đồng bộ hóa giao dịch kẻ sọc"
 
@@ -49437,7 +49437,7 @@ msgstr ""
 msgid "Please check the error message and take necessary actions to fix the error and then restart the reposting again."
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:65
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_connector.py:65
 msgid "Please check your Plaid client ID and secret values"
 msgstr "Vui lòng kiểm tra ID khách hàng Plaid và các giá trị bí mật của bạn"
 
@@ -49766,7 +49766,7 @@ msgstr "Hãy kéo các mục từ phiếu giao hàng"
 msgid "Please rectify and try again."
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:237
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:237
 msgid "Please refresh or reset the Plaid linking of the Bank {}."
 msgstr ""
 
@@ -50262,7 +50262,7 @@ msgstr "Vui lòng đặt {0} cho địa chỉ {1}"
 msgid "Please set {0} in BOM Creator {1}"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:95
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:95
 msgid "Please setup a default bank account for company {0}"
 msgstr "Vui lòng thiết lập tài khoản ngân hàng mặc định cho công ty {0}"
 
@@ -52162,7 +52162,7 @@ msgctxt "Quality Review"
 msgid "Procedure"
 msgstr "Thủ tục"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:70
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:70
 msgid "Process Day Book Data"
 msgstr "Quy trình dữ liệu sổ ngày"
 
@@ -52183,9 +52183,9 @@ msgctxt "Quality Procedure Process"
 msgid "Process Description"
 msgstr "Miêu tả quá trình"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:328
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:414
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:589
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:328
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:414
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:589
 msgid "Process Failed"
 msgstr "Quá trình không thành công"
 
@@ -52248,7 +52248,7 @@ msgstr ""
 msgid "Process Loss Value"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:58
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:58
 msgid "Process Master Data"
 msgstr "Xử lý dữ liệu chủ"
 
@@ -52307,7 +52307,7 @@ msgid "Processed BOMs"
 msgstr ""
 
 #. Label of a Section Break field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Processed Files"
 msgstr "Tập tin đã xử lý"
@@ -52318,15 +52318,15 @@ msgctxt "Quality Procedure"
 msgid "Processes"
 msgstr "Quy trình"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:306
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:306
 msgid "Processing Chart of Accounts and Parties"
 msgstr "Xử lý biểu đồ tài khoản và các bên"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:312
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:312
 msgid "Processing Items and UOMs"
 msgstr "Gia công vật phẩm và UOM"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:309
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:309
 msgid "Processing Party Addresses"
 msgstr "Địa chỉ tổ chức tiệc"
 
@@ -52334,7 +52334,7 @@ msgstr "Địa chỉ tổ chức tiệc"
 msgid "Processing Sales! Please Wait..."
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:580
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:580
 msgid "Processing Vouchers"
 msgstr "Phiếu chế biến"
 
@@ -55748,12 +55748,12 @@ msgid "Quick Stock Balance"
 msgstr "Cân bằng chứng khoán nhanh"
 
 #. Name of a DocType
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgid "QuickBooks Migrator"
 msgstr "QuickBooks Migrator"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Quickbooks Company ID"
 msgstr "ID công ty Quickbooks"
@@ -56852,8 +56852,8 @@ msgctxt "Quality Inspection Reading"
 msgid "Reading 9"
 msgstr "Đọc 9"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:300
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:577
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:300
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:577
 msgid "Reading Uploaded File"
 msgstr "Đọc tập tin đã tải lên"
 
@@ -57395,7 +57395,7 @@ msgid "Redemption Date"
 msgstr "Ngày cứu chuộc"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Redirect URL"
 msgstr "CHuyển hướng URL"
@@ -58000,7 +58000,7 @@ msgid "Refresh Plaid Link"
 msgstr ""
 
 #. Label of a Small Text field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Refresh Token"
 msgstr "Thông báo làm mới"
@@ -59236,7 +59236,7 @@ msgstr ""
 msgid "Reset"
 msgstr "Thiết lập lại"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:19
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:19
 msgid "Reset Plaid Link"
 msgstr ""
 
@@ -62644,7 +62644,7 @@ msgstr "Lưu"
 msgid "Save as Draft"
 msgstr "Lưu dưới dạng bản nháp"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.py:373
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.py:373
 msgid "Saving {0}"
 msgstr "Đang lưu {0}"
 
@@ -62883,7 +62883,7 @@ msgid "School/University"
 msgstr "Học / Đại học"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Scope"
 msgstr "Phạm vi"
@@ -63321,7 +63321,7 @@ msgstr "Chọn nhà cung cấp"
 msgid "Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only."
 msgstr "Chọn Nhà cung cấp từ các Nhà cung cấp mặc định của các mục dưới đây. Khi lựa chọn, Đơn đặt hàng sẽ được thực hiện đối với các mặt hàng chỉ thuộc về Nhà cung cấp đã chọn."
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:136
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:136
 msgid "Select a company"
 msgstr "Chọn một công ty"
 
@@ -67039,7 +67039,7 @@ msgid "Status"
 msgstr "Trạng thái"
 
 #. Label of a Select field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Status"
 msgstr "Trạng thái"
@@ -67136,7 +67136,7 @@ msgid "Status"
 msgstr "Trạng thái"
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Status"
 msgstr "Trạng thái"
@@ -69908,16 +69908,16 @@ msgstr "Đình chỉ"
 msgid "Switch Between Payment Modes"
 msgstr "Chuyển đổi giữa các phương thức thanh toán"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:23
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:23
 msgid "Sync Now"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:31
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:31
 msgid "Sync Started"
 msgstr ""
 
 #. Label of a Check field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Synchronize all accounts every hour"
 msgstr "Đồng bộ hóa tất cả các tài khoản mỗi giờ"
@@ -69993,9 +69993,9 @@ msgstr "Đồng bộ hóa tất cả các tài khoản mỗi giờ"
 #: crm/doctype/opportunity_lost_reason/opportunity_lost_reason.json
 #: crm/doctype/opportunity_type/opportunity_type.json
 #: crm/doctype/prospect/prospect.json
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 #: manufacturing/doctype/blanket_order/blanket_order.json
 #: manufacturing/doctype/bom_update_log/bom_update_log.json
 #: manufacturing/doctype/downtime_entry/downtime_entry.json
@@ -70150,29 +70150,29 @@ msgid "Take a walk-through of Manufacturing Settings"
 msgstr ""
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Tally Company"
 msgstr "Công ty kiểm đếm"
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Tally Creditors Account"
 msgstr "Tài khoản chủ nợ"
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Tally Debtors Account"
 msgstr "Tài khoản con nợ"
 
 #. Name of a DocType
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgid "Tally Migration"
 msgstr "Di chuyển kiểm đếm"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:32
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:32
 msgid "Tally Migration Error"
 msgstr "Kiểm đếm lỗi di chuyển"
 
@@ -72004,7 +72004,7 @@ msgstr "Người đứng đầu tài khoản dưới trách nhiệm pháp lý ho
 
 #. Description of the 'Accounts' (Section Break) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "The accounts are set by the system automatically but do confirm these defaults"
 msgstr "Các tài khoản được đặt bởi hệ thống tự động nhưng xác nhận các mặc định này"
@@ -72189,7 +72189,7 @@ msgstr "Cổ phần không tồn tại với {0}"
 msgid "The stock has been reserved for the following Items and Warehouses, un-reserve the same to {0} the Stock Reconciliation: <br /><br /> {1}"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:32
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:32
 msgid "The sync has started in the background, please check the {0} list for new records."
 msgstr ""
 
@@ -72312,7 +72312,7 @@ msgstr "Không có gì phải chỉnh sửa."
 msgid "There must be atleast 1 Finished Good in this Stock Entry"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:135
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:135
 msgid "There was an error creating Bank Account while linking with Plaid."
 msgstr ""
 
@@ -72320,16 +72320,16 @@ msgstr ""
 msgid "There was an error saving the document."
 msgstr "Đã xảy ra lỗi khi lưu tài liệu."
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:236
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:236
 msgid "There was an error syncing transactions."
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:157
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:157
 msgid "There was an error updating Bank Account {} while linking with Plaid."
 msgstr ""
 
 #: accounts/doctype/bank/bank.js:113
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:109
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:109
 msgid "There was an issue connecting to Plaid's authentication server. Check browser console for more information"
 msgstr ""
 
@@ -73729,7 +73729,7 @@ msgid "Toggle Recent Orders"
 msgstr "Chuyển đổi đơn hàng gần đây"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Token Endpoint"
 msgstr "Điểm cuối mã thông báo"
@@ -76040,7 +76040,7 @@ msgid "UOM conversion factor required for UOM: {0} in Item: {1}"
 msgstr ""
 
 #. Description of the 'Default UOM' (Link) field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "UOM in case unspecified in imported data"
 msgstr "UOM trong trường hợp không xác định trong dữ liệu đã nhập"
@@ -76052,7 +76052,7 @@ msgid "UOMs"
 msgstr "ĐVT"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "UOMs"
 msgstr "ĐVT"
@@ -76135,7 +76135,7 @@ msgid "Unclosed Fiscal Years Profit / Loss (Credit)"
 msgstr "Khép lại năm tài chính năm Lợi nhuận / Lỗ (tín dụng)"
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Undeposited Funds Account"
 msgstr "Tài khoản tiền chưa ký gửi"
@@ -76441,7 +76441,7 @@ msgctxt "Appointment"
 msgid "Unverified"
 msgstr "Chưa được xác minh"
 
-#: quantumerp_integrations/utils.py:20
+#: quantum_erp_integrations/utils.py:20
 msgid "Unverified Webhook Data"
 msgstr "Dữ liệu webhook chưa được xác minh"
 
@@ -78067,7 +78067,7 @@ msgid "Vouchers"
 msgstr "Chứng từ"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Vouchers"
 msgstr "Chứng từ"
@@ -80261,7 +80261,7 @@ msgstr "Tương tác trên YouTube"
 
 #. Description of the 'Quantum ERP Company' (Data) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Your Company set in Quantum ERP"
 msgstr "Công ty của bạn đặt trong Quantum ERP"
@@ -80362,7 +80362,7 @@ msgstr ""
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "development"
 msgstr "phát triển"
@@ -80594,7 +80594,7 @@ msgstr ""
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "production"
 msgstr "sản xuất"
@@ -80681,7 +80681,7 @@ msgstr "rgt"
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "sandbox"
 msgstr "hộp cát"
@@ -81288,7 +81288,7 @@ msgstr ""
 msgid "{} is added multiple times on rows: {}"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:704
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:704
 msgid "{} of {}"
 msgstr "{} trong số {}"
 

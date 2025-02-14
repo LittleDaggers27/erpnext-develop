@@ -22,7 +22,7 @@ frappe.ui.form.on("Plaid Settings", {
 
 			frm.add_custom_button(__("Sync Now"), () => {
 				frappe.call({
-					method: "erpnext.quantumerp_integrations.doctype.plaid_settings.plaid_settings.enqueue_synchronization",
+					method: "erpnext.quantum_erp_integrations.doctype.plaid_settings.plaid_settings.enqueue_synchronization",
 					freeze: true,
 					callback: () => {
 						let bank_transaction_link = frappe.utils.get_form_link(
@@ -138,7 +138,7 @@ erpnext.integrations.plaidLink = class plaidLink {
 				me.company = data.company;
 				frappe
 					.xcall(
-						"erpnext.quantumerp_integrations.doctype.plaid_settings.plaid_settings.add_institution",
+						"erpnext.quantum_erp_integrations.doctype.plaid_settings.plaid_settings.add_institution",
 						{
 							token: token,
 							response: response,
@@ -146,7 +146,7 @@ erpnext.integrations.plaidLink = class plaidLink {
 					)
 					.then((result) => {
 						frappe.xcall(
-							"erpnext.quantumerp_integrations.doctype.plaid_settings.plaid_settings.add_bank_accounts",
+							"erpnext.quantum_erp_integrations.doctype.plaid_settings.plaid_settings.add_bank_accounts",
 							{
 								response: response,
 								bank: result,

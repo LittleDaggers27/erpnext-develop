@@ -1571,7 +1571,7 @@ msgid "API Endpoint"
 msgstr "API-eindpunt"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "API Endpoint"
 msgstr "API-eindpunt"
@@ -1751,7 +1751,7 @@ msgid "Access Key is required for Service Provider: {0}"
 msgstr ""
 
 #. Label of a Small Text field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Access Token"
 msgstr "Toegang Token"
@@ -2966,7 +2966,7 @@ msgid "Accounts"
 msgstr "Rekeningen"
 
 #. Label of a Section Break field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Accounts"
 msgstr "Rekeningen"
@@ -4846,7 +4846,7 @@ msgid "Address used to determine Tax Category in transactions"
 msgstr "Adres dat wordt gebruikt om de belastingcategorie in transacties te bepalen"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Addresses"
 msgstr "Adressen"
@@ -7166,7 +7166,7 @@ msgstr "Amt"
 msgid "An error has been appeared while reposting item valuation via {0}"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:26
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:26
 msgctxt "<a href='/app/error-log' class='variant-click'>Error Log</a>"
 msgid "An error has occurred during {0}. Check {1} for more details"
 msgstr ""
@@ -7370,7 +7370,7 @@ msgid "Applicable on booking actual expenses"
 msgstr "Van toepassing op het boeken van werkelijke uitgaven"
 
 #. Label of a Section Break field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Application Settings"
 msgstr "Applicatie instellingen"
@@ -8713,8 +8713,8 @@ msgstr "Attributen"
 msgid "Auditor"
 msgstr "Revisor"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:68
-#: quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:85
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_connector.py:68
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_connector.py:85
 msgid "Authentication Failed"
 msgstr "Verificatie mislukt"
 
@@ -8730,7 +8730,7 @@ msgid "Authorization Control"
 msgstr "Autorisatie controle"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Authorization Endpoint"
 msgstr "Autorisatie-eindpunt"
@@ -8741,13 +8741,13 @@ msgid "Authorization Rule"
 msgstr "Autorisatie Rule"
 
 #. Label of a Section Break field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Authorization Settings"
 msgstr "Autorisatie-instellingen"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Authorization URL"
 msgstr "Autorisatie-URL"
@@ -10201,15 +10201,15 @@ msgstr ""
 msgid "Bank account cannot be named as {0}"
 msgstr "Bankrekening kan niet worden genoemd als {0}"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:130
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:130
 msgid "Bank account {0} already exists and could not be created again"
 msgstr "Bankrekening {0} bestaat al en kon niet opnieuw worden aangemaakt"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:134
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:134
 msgid "Bank accounts added"
 msgstr "Bankrekeningen toegevoegd"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:297
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:297
 msgid "Bank transaction creation error"
 msgstr "Fout bij maken van banktransactie"
 
@@ -12770,7 +12770,7 @@ msgstr "Kan niet verwijzen rij getal groter dan of gelijk aan de huidige rijnumm
 msgid "Cannot retrieve link token for update. Check Error Log for more information"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:60
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:60
 msgid "Cannot retrieve link token. Check Error Log for more information"
 msgstr ""
 
@@ -13270,7 +13270,7 @@ msgid "Chart of Accounts"
 msgstr "Rekeningschema"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Chart of Accounts"
 msgstr "Rekeningschema"
@@ -13605,13 +13605,13 @@ msgid "Client"
 msgstr "Klant"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Client ID"
 msgstr "klant identificatie"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Client Secret"
 msgstr "Client Secret"
@@ -13869,7 +13869,7 @@ msgid "Code"
 msgstr "Code"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Code"
 msgstr "Code"
@@ -14168,7 +14168,7 @@ msgstr "Bedrijven"
 #: crm/report/lost_opportunity/lost_opportunity.js:9
 #: crm/report/opportunity_summary_by_sales_stage/opportunity_summary_by_sales_stage.js:59
 #: crm/report/sales_pipeline_analytics/sales_pipeline_analytics.js:52
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:119
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:119
 #: manufacturing/doctype/bom_creator/bom_creator.js:52
 #: manufacturing/report/cost_of_poor_quality_report/cost_of_poor_quality_report.js:8
 #: manufacturing/report/exponential_smoothing_forecasting/exponential_smoothing_forecasting.js:9
@@ -14784,7 +14784,7 @@ msgid "Company"
 msgstr "Bedrijf"
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Company"
 msgstr "Bedrijf"
@@ -15183,7 +15183,7 @@ msgid "Company Name"
 msgstr "Bedrijfsnaam"
 
 #. Description of the 'Tally Company' (Data) field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Company Name as per Imported Tally Data"
 msgstr "Bedrijfsnaam volgens geïmporteerde telgegevens"
@@ -15197,7 +15197,7 @@ msgid "Company Not Linked"
 msgstr "Bedrijf niet gekoppeld"
 
 #. Label of a Section Break field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Company Settings"
 msgstr "Bedrijfsinstellingen"
@@ -15288,7 +15288,7 @@ msgctxt "Purchase Invoice"
 msgid "Company which internal supplier represents"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:80
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:80
 msgid "Company {0} already exists. Continuing will overwrite the Company and Chart of Accounts"
 msgstr "Bedrijf {0} bestaat al. Als u doorgaat, worden het bedrijf en het rekeningschema overschreven"
 
@@ -15353,7 +15353,7 @@ msgctxt "Quotation"
 msgid "Competitors"
 msgstr ""
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:61
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:61
 msgid "Complete"
 msgstr "Voltooien"
 
@@ -15364,7 +15364,7 @@ msgid "Complete"
 msgstr "Voltooien"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Complete"
 msgstr "Voltooien"
@@ -15793,27 +15793,27 @@ msgctxt "Employee"
 msgid "Confirmation Date"
 msgstr "Bevestigingsdatum"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:37
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:45
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:37
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:45
 msgid "Connect to Quickbooks"
 msgstr "Maak verbinding met Quickbooks"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:59
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:59
 msgid "Connected to QuickBooks"
 msgstr "Verbonden met QuickBooks"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Connected to QuickBooks"
 msgstr "Verbonden met QuickBooks"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:58
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:58
 msgid "Connecting to QuickBooks"
 msgstr "Verbinden met QuickBooks"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Connecting to QuickBooks"
 msgstr "Verbinden met QuickBooks"
@@ -16639,7 +16639,7 @@ msgctxt "Issue"
 msgid "Content Type"
 msgstr "Content Type"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:136
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:136
 #: public/js/controllers/transaction.js:2044
 #: selling/doctype/quotation/quotation.js:344
 msgid "Continue"
@@ -17601,7 +17601,7 @@ msgstr ""
 msgid "Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again"
 msgstr "Kan creditnota niet automatisch maken. Verwijder het vinkje bij &#39;Kredietnota uitgeven&#39; en verzend het opnieuw"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:339
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:339
 msgid "Could not detect the Company for updating Bank Accounts"
 msgstr ""
 
@@ -18294,7 +18294,7 @@ msgstr ""
 msgid "Creating Accounts..."
 msgstr "Accounts maken ..."
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:398
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:398
 msgid "Creating Company and Importing Chart of Accounts"
 msgstr "Bedrijf aanmaken en rekeningschema importeren"
 
@@ -18629,7 +18629,7 @@ msgstr "crediteuren"
 
 #. Description of the 'Tally Creditors Account' (Data) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Creditors Account set in Tally"
 msgstr "Schuldeisersrekening ingesteld in Tally"
@@ -20498,7 +20498,7 @@ msgid "Data Import and Settings"
 msgstr "Gegevens importeren en instellingen"
 
 #. Description of the 'Master Data' (Attach) field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Data exported from Tally that consists of the Chart of Accounts, Customers, Suppliers, Addresses, Items and UOMs"
 msgstr "Uit Tally geëxporteerde gegevens die bestaan uit het rekeningschema, klanten, leveranciers, adressen, artikelen en maateenheden"
@@ -20787,14 +20787,14 @@ msgid "Day"
 msgstr "Dag"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Day Book Data"
 msgstr "Dagboekgegevens"
 
 #. Description of the 'Day Book Data' (Attach) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Day Book Data exported from Tally that consists of all historic transactions"
 msgstr "Uit Tally geëxporteerde dagboekgegevens die bestaan uit alle historische transacties"
@@ -21048,7 +21048,7 @@ msgstr "debiteuren"
 
 #. Description of the 'Tally Debtors Account' (Data) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Debtors Account set in Tally"
 msgstr "Debiteurenrekening ingesteld in Tally"
@@ -21288,13 +21288,13 @@ msgid "Default Cost Center"
 msgstr "Standaard Kostenplaats"
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Default Cost Center"
 msgstr "Standaard Kostenplaats"
 
 #. Label of a Link field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Default Cost Center"
 msgstr "Standaard Kostenplaats"
@@ -21570,7 +21570,7 @@ msgid "Default Receivable Account"
 msgstr "Standaard Vordering Account"
 
 #. Label of a Link field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Default Round Off Account"
 msgstr "Standaard afrondingsrekening"
@@ -21610,7 +21610,7 @@ msgid "Default Service Level Agreement for {0} already exists."
 msgstr ""
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Default Shipping Account"
 msgstr "Standaard verzendaccount"
@@ -21658,7 +21658,7 @@ msgid "Default Territory"
 msgstr "Standaard Regio"
 
 #. Label of a Link field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Default UOM"
 msgstr "Standaard maateenheid"
@@ -21700,7 +21700,7 @@ msgid "Default Warehouse"
 msgstr "Standaard Magazijn"
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Default Warehouse"
 msgstr "Standaard Magazijn"
@@ -21724,7 +21724,7 @@ msgid "Default Warehouse"
 msgstr "Standaard Magazijn"
 
 #. Label of a Link field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Default Warehouse"
 msgstr "Standaard Magazijn"
@@ -24577,9 +24577,9 @@ msgctxt "Bank Statement Import"
 msgid "Don't Send Emails"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:322
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:407
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:583
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:322
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:407
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:583
 #: public/js/utils/crm_activities.js:211
 msgid "Done"
 msgstr "Afgerond"
@@ -25293,7 +25293,7 @@ msgid "EAN-8"
 msgstr ""
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Quantum ERP Company"
 msgstr "Quantum ERP Bedrijf"
@@ -26032,7 +26032,7 @@ msgid "Enable Discount Accounting for Selling"
 msgstr ""
 
 #. Label of a Check field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Enable European Access"
 msgstr "Schakel Europese toegang in"
@@ -26084,7 +26084,7 @@ msgid "Enabled"
 msgstr "Ingeschakeld"
 
 #. Label of a Check field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Enabled"
 msgstr "Ingeschakeld"
@@ -26539,7 +26539,7 @@ msgstr ""
 msgid "Error evaluating the criteria formula"
 msgstr "Fout bij het evalueren van de criteria formule"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:157
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:157
 msgid "Error occured while parsing Chart of Accounts: Please make sure that no two accounts have the same name"
 msgstr "Er is een fout opgetreden bij het parseren van het rekeningschema: zorg ervoor dat geen twee accounts dezelfde naam hebben"
 
@@ -27445,7 +27445,7 @@ msgstr ""
 msgid "FIFO/LIFO Queue"
 msgstr ""
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:62
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:62
 #: manufacturing/doctype/bom_creator/bom_creator_list.js:13
 msgid "Failed"
 msgstr "Gefaald"
@@ -27540,7 +27540,7 @@ msgid "Failed"
 msgstr "Gefaald"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Failed"
 msgstr "Gefaald"
@@ -27563,7 +27563,7 @@ msgid "Failed Entries"
 msgstr ""
 
 #. Label of a HTML field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Failed Import Log"
 msgstr "Mislukt importlogboek"
@@ -27684,7 +27684,7 @@ msgctxt "Process Statement Of Accounts"
 msgid "Fetch Customers"
 msgstr "Haal klanten op"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:50
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:50
 msgid "Fetch Data"
 msgstr "Gegevens ophalen"
 
@@ -28395,7 +28395,7 @@ msgid "Fixed Deposit Number"
 msgstr "Vast deponeringsnummer"
 
 #. Label of a HTML field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Fixed Error Log"
 msgstr "Vaste foutenlogboek"
@@ -32064,7 +32064,7 @@ msgstr "Data importeren"
 msgid "Import Data from Spreadsheet"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:66
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:66
 msgid "Import Day Book Data"
 msgstr "Dagboekgegevens importeren"
 
@@ -32093,7 +32093,7 @@ msgid "Import Log"
 msgstr "Importeren Log"
 
 #. Label of a Section Break field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Import Log"
 msgstr "Importeren Log"
@@ -32104,7 +32104,7 @@ msgctxt "Bank Statement Import"
 msgid "Import Log Preview"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:54
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:54
 msgid "Import Master Data"
 msgstr "Stamgegevens importeren"
 
@@ -32155,11 +32155,11 @@ msgstr ""
 msgid "Import in Bulk"
 msgstr "Import in bulk"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:404
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:404
 msgid "Importing Items and UOMs"
 msgstr "Items en UOM&#39;s importeren"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:401
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:401
 msgid "Importing Parties and Addresses"
 msgstr "Partijen en adressen importeren"
 
@@ -32253,7 +32253,7 @@ msgstr "In de maak"
 #: accounts/doctype/bank_statement_import/bank_statement_import.js:65
 #: accounts/doctype/ledger_merge/ledger_merge.js:19
 #: accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.js:36
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:60
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.js:60
 #: manufacturing/doctype/bom_creator/bom_creator_list.js:7
 msgid "In Progress"
 msgstr "Bezig"
@@ -32296,7 +32296,7 @@ msgid "In Progress"
 msgstr "Bezig"
 
 #. Option for the 'Status' (Select) field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "In Progress"
 msgstr "Bezig"
@@ -34245,13 +34245,13 @@ msgid "Is Customer Provided Item"
 msgstr "Is door de klant verstrekt artikel"
 
 #. Label of a Check field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Is Day Book Data Imported"
 msgstr "Worden dagboekgegevens geïmporteerd"
 
 #. Label of a Check field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Is Day Book Data Processed"
 msgstr "Worden dagboekgegevens verwerkt"
@@ -34591,13 +34591,13 @@ msgid "Is Mandatory"
 msgstr "Is verplicht"
 
 #. Label of a Check field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Is Master Data Imported"
 msgstr "Wordt stamgegevens geïmporteerd"
 
 #. Label of a Check field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Is Master Data Processed"
 msgstr "Wordt stamgegevens verwerkt"
@@ -37262,7 +37262,7 @@ msgid "Items"
 msgstr "Artikelen"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Items"
 msgstr "Artikelen"
@@ -38612,7 +38612,7 @@ msgctxt "Support Search Source"
 msgid "Link Options"
 msgstr "Link opties"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:15
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:15
 msgid "Link a new bank account"
 msgstr ""
 
@@ -40339,7 +40339,7 @@ msgid "Master"
 msgstr "Stam"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Master Data"
 msgstr "Stamgegevens"
@@ -47025,7 +47025,7 @@ msgid "Partially ordered"
 msgstr "gedeeltelijk Bestelde"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Parties"
 msgstr "partijen"
@@ -49128,23 +49128,23 @@ msgid "Plaid Access Token"
 msgstr "Plaid-toegangstoken"
 
 #. Label of a Data field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Plaid Client ID"
 msgstr "Plaid-klant-ID"
 
 #. Label of a Select field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Plaid Environment"
 msgstr "Geruite omgeving"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:136
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:160
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:136
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:160
 msgid "Plaid Link Failed"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:238
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:238
 msgid "Plaid Link Refresh Required"
 msgstr ""
 
@@ -49153,13 +49153,13 @@ msgid "Plaid Link Updated"
 msgstr ""
 
 #. Label of a Password field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Plaid Secret"
 msgstr "Plaid Secret"
 
 #. Name of a DocType
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Settings"
 msgstr "Plaid-instellingen"
 
@@ -49169,7 +49169,7 @@ msgctxt "Plaid Settings"
 msgid "Plaid Settings"
 msgstr "Plaid-instellingen"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:211
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:211
 msgid "Plaid transactions sync error"
 msgstr "Synchronisatiefout voor transacties met plaid"
 
@@ -49437,7 +49437,7 @@ msgstr ""
 msgid "Please check the error message and take necessary actions to fix the error and then restart the reposting again."
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:65
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_connector.py:65
 msgid "Please check your Plaid client ID and secret values"
 msgstr "Controleer uw Plaid-klant-ID en geheime waarden"
 
@@ -49766,7 +49766,7 @@ msgstr "Haal aub artikelen uit de Vrachtbrief"
 msgid "Please rectify and try again."
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:237
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:237
 msgid "Please refresh or reset the Plaid linking of the Bank {}."
 msgstr ""
 
@@ -50262,7 +50262,7 @@ msgstr "Stel {0} in voor adres {1}"
 msgid "Please set {0} in BOM Creator {1}"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:95
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:95
 msgid "Please setup a default bank account for company {0}"
 msgstr "Stel een standaard bankrekening in voor bedrijf {0}"
 
@@ -52162,7 +52162,7 @@ msgctxt "Quality Review"
 msgid "Procedure"
 msgstr "Procedure"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:70
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:70
 msgid "Process Day Book Data"
 msgstr "Dagboekgegevens verwerken"
 
@@ -52183,9 +52183,9 @@ msgctxt "Quality Procedure Process"
 msgid "Process Description"
 msgstr "Procesbeschrijving"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:328
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:414
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:589
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:328
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:414
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:589
 msgid "Process Failed"
 msgstr "Proces mislukt"
 
@@ -52248,7 +52248,7 @@ msgstr ""
 msgid "Process Loss Value"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:58
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:58
 msgid "Process Master Data"
 msgstr "Stamgegevens verwerken"
 
@@ -52307,7 +52307,7 @@ msgid "Processed BOMs"
 msgstr ""
 
 #. Label of a Section Break field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Processed Files"
 msgstr "Verwerkte bestanden"
@@ -52318,15 +52318,15 @@ msgctxt "Quality Procedure"
 msgid "Processes"
 msgstr "Processen"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:306
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:306
 msgid "Processing Chart of Accounts and Parties"
 msgstr "Verwerkingstabel van rekeningen en partijen"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:312
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:312
 msgid "Processing Items and UOMs"
 msgstr "Items en UOM&#39;s verwerken"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:309
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:309
 msgid "Processing Party Addresses"
 msgstr "Verwerking partijadressen"
 
@@ -52334,7 +52334,7 @@ msgstr "Verwerking partijadressen"
 msgid "Processing Sales! Please Wait..."
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:580
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:580
 msgid "Processing Vouchers"
 msgstr "Vouchers verwerken"
 
@@ -55748,12 +55748,12 @@ msgid "Quick Stock Balance"
 msgstr "Snelle voorraadbalans"
 
 #. Name of a DocType
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgid "QuickBooks Migrator"
 msgstr "QuickBooks Migrator"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Quickbooks Company ID"
 msgstr "Quickbooks Bedrijfs-ID"
@@ -56852,8 +56852,8 @@ msgctxt "Quality Inspection Reading"
 msgid "Reading 9"
 msgstr "Meting 9"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:300
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:577
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:300
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:577
 msgid "Reading Uploaded File"
 msgstr "Geüpload bestand lezen"
 
@@ -57395,7 +57395,7 @@ msgid "Redemption Date"
 msgstr "Verlossingsdatum"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Redirect URL"
 msgstr "redirect URL"
@@ -58000,7 +58000,7 @@ msgid "Refresh Plaid Link"
 msgstr ""
 
 #. Label of a Small Text field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Refresh Token"
 msgstr "Vernieuwen Token"
@@ -59236,7 +59236,7 @@ msgstr ""
 msgid "Reset"
 msgstr "Reset"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:19
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:19
 msgid "Reset Plaid Link"
 msgstr ""
 
@@ -62644,7 +62644,7 @@ msgstr "bewaren"
 msgid "Save as Draft"
 msgstr "Opslaan als concept"
 
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.py:373
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.py:373
 msgid "Saving {0}"
 msgstr "{0} opslaan"
 
@@ -62883,7 +62883,7 @@ msgid "School/University"
 msgstr "School / Universiteit"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Scope"
 msgstr "strekking"
@@ -63321,7 +63321,7 @@ msgstr "Selecteer een leverancier"
 msgid "Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only."
 msgstr "Selecteer een leverancier uit de standaardleveranciers van de onderstaande items. Bij selectie wordt er alleen een inkooporder gemaakt voor artikelen van de geselecteerde leverancier."
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:136
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:136
 msgid "Select a company"
 msgstr "Selecteer een bedrijf"
 
@@ -67039,7 +67039,7 @@ msgid "Status"
 msgstr "Status"
 
 #. Label of a Select field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Status"
 msgstr "Status"
@@ -67136,7 +67136,7 @@ msgid "Status"
 msgstr "Status"
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Status"
 msgstr "Status"
@@ -69908,16 +69908,16 @@ msgstr "Geschorst"
 msgid "Switch Between Payment Modes"
 msgstr "Schakel tussen betalingsmodi"
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:23
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:23
 msgid "Sync Now"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:31
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:31
 msgid "Sync Started"
 msgstr ""
 
 #. Label of a Check field in DocType 'Plaid Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "Synchronize all accounts every hour"
 msgstr "Synchroniseer alle accounts elk uur"
@@ -69993,9 +69993,9 @@ msgstr "Synchroniseer alle accounts elk uur"
 #: crm/doctype/opportunity_lost_reason/opportunity_lost_reason.json
 #: crm/doctype/opportunity_type/opportunity_type.json
 #: crm/doctype/prospect/prospect.json
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 #: manufacturing/doctype/blanket_order/blanket_order.json
 #: manufacturing/doctype/bom_update_log/bom_update_log.json
 #: manufacturing/doctype/downtime_entry/downtime_entry.json
@@ -70150,29 +70150,29 @@ msgid "Take a walk-through of Manufacturing Settings"
 msgstr ""
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Tally Company"
 msgstr "Tally Company"
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Tally Creditors Account"
 msgstr "Tally crediteurenrekening"
 
 #. Label of a Data field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Tally Debtors Account"
 msgstr "Tally Debtors Account"
 
 #. Name of a DocType
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgid "Tally Migration"
 msgstr "Tally-migratie"
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.js:32
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.js:32
 msgid "Tally Migration Error"
 msgstr "Tally-migratiefout"
 
@@ -72004,7 +72004,7 @@ msgstr "De rekening hoofd onder Aansprakelijkheid of Equity, waarbij winst / ver
 
 #. Description of the 'Accounts' (Section Break) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "The accounts are set by the system automatically but do confirm these defaults"
 msgstr "De accounts worden automatisch door het systeem ingesteld, maar bevestig deze standaardinstellingen"
@@ -72189,7 +72189,7 @@ msgstr "De shares bestaan niet met de {0}"
 msgid "The stock has been reserved for the following Items and Warehouses, un-reserve the same to {0} the Stock Reconciliation: <br /><br /> {1}"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:32
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:32
 msgid "The sync has started in the background, please check the {0} list for new records."
 msgstr ""
 
@@ -72312,7 +72312,7 @@ msgstr "Er is niets om te bewerken ."
 msgid "There must be atleast 1 Finished Good in this Stock Entry"
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:135
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:135
 msgid "There was an error creating Bank Account while linking with Plaid."
 msgstr ""
 
@@ -72320,16 +72320,16 @@ msgstr ""
 msgid "There was an error saving the document."
 msgstr "Er is een fout opgetreden bij het opslaan van het document."
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:236
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:236
 msgid "There was an error syncing transactions."
 msgstr ""
 
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:157
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.py:157
 msgid "There was an error updating Bank Account {} while linking with Plaid."
 msgstr ""
 
 #: accounts/doctype/bank/bank.js:113
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:109
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.js:109
 msgid "There was an issue connecting to Plaid's authentication server. Check browser console for more information"
 msgstr ""
 
@@ -73729,7 +73729,7 @@ msgid "Toggle Recent Orders"
 msgstr "Schakel recente bestellingen in"
 
 #. Label of a Data field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Token Endpoint"
 msgstr "Token-eindpunt"
@@ -76040,7 +76040,7 @@ msgid "UOM conversion factor required for UOM: {0} in Item: {1}"
 msgstr ""
 
 #. Description of the 'Default UOM' (Link) field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "UOM in case unspecified in imported data"
 msgstr "Maateenheid in geval niet gespecificeerd in geïmporteerde gegevens"
@@ -76052,7 +76052,7 @@ msgid "UOMs"
 msgstr "UOMs"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "UOMs"
 msgstr "UOMs"
@@ -76135,7 +76135,7 @@ msgid "Unclosed Fiscal Years Profit / Loss (Credit)"
 msgstr "Unclosed Boekjaren winst / verlies (Credit)"
 
 #. Label of a Link field in DocType 'QuickBooks Migrator'
-#: quantumerp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
+#: quantum_erp_integrations/doctype/quickbooks_migrator/quickbooks_migrator.json
 msgctxt "QuickBooks Migrator"
 msgid "Undeposited Funds Account"
 msgstr "Niet-gedeponeerd fondsenaccount"
@@ -76441,7 +76441,7 @@ msgctxt "Appointment"
 msgid "Unverified"
 msgstr "geverifieerde"
 
-#: quantumerp_integrations/utils.py:20
+#: quantum_erp_integrations/utils.py:20
 msgid "Unverified Webhook Data"
 msgstr "Niet-geverifieerde Webhook-gegevens"
 
@@ -78067,7 +78067,7 @@ msgid "Vouchers"
 msgstr "vouchers"
 
 #. Label of a Attach field in DocType 'Tally Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Vouchers"
 msgstr "vouchers"
@@ -80261,7 +80261,7 @@ msgstr "YouTube-interacties"
 
 #. Description of the 'Quantum ERP Company' (Data) field in DocType 'Tally
 #. Migration'
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.json
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.json
 msgctxt "Tally Migration"
 msgid "Your Company set in Quantum ERP"
 msgstr "Uw bedrijf ingesteld in Quantum ERP"
@@ -80362,7 +80362,7 @@ msgstr ""
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "development"
 msgstr "ontwikkeling"
@@ -80594,7 +80594,7 @@ msgstr ""
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "production"
 msgstr "productie"
@@ -80681,7 +80681,7 @@ msgstr "RGT"
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
+#: quantum_erp_integrations/doctype/plaid_settings/plaid_settings.json
 msgctxt "Plaid Settings"
 msgid "sandbox"
 msgstr "zandbak"
@@ -81288,7 +81288,7 @@ msgstr ""
 msgid "{} is added multiple times on rows: {}"
 msgstr ""
 
-#: quantumerp_integrations/doctype/tally_migration/tally_migration.py:704
+#: quantum_erp_integrations/doctype/tally_migration/tally_migration.py:704
 msgid "{} of {}"
 msgstr "{} van {}"
 
