@@ -28,7 +28,7 @@
 		"frappe": true,
 		"Vue": true,
 		"SetVueGlobals": true,
-		"erpnext": true,
+		"quantumerp": true,
 		"hub": true,
 		"$": true,
 		"jQuery": true,
