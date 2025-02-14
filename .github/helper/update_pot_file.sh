@@ -8,7 +8,7 @@ pip install frappe-bench
 bench -v init frappe-bench --skip-assets --skip-redis-config-generation --python "$(which python)"
 cd ./frappe-bench || exit
 
-echo "Get ERPNext..."
+echo "Get Qunatum ERP..."
 bench get-app --skip-assets erpnext "${GITHUB_WORKSPACE}"
 
 echo "Generating POT file..."
@@ -17,7 +17,7 @@ bench generate-pot-file --app erpnext
 cd ./apps/erpnext || exit
 
 echo "Configuring git user..."
-git config user.email "developers@erpnext.com"
+git config user.email "developers@erp-quantum.com"
 git config user.name "frappe-pr-bot"
 
 echo "Setting the correct git remote..."

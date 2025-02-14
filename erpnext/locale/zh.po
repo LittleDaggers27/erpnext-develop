@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: frappe\n"
-"Report-Msgid-Bugs-To: info@erpnext.com\n"
+"Report-Msgid-Bugs-To: info@erp-quantum.com\n"
 "POT-Creation-Date: 2025-02-09 09:34+0000\n"
 "PO-Revision-Date: 2025-02-09 21:47\n"
-"Last-Translator: info@erpnext.com\n"
+"Last-Translator: info@erp-quantum.com\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8753,7 +8753,7 @@ msgid "Buying must be checked, if Applicable For is selected as {0}"
 msgstr "“适用于”为{0}时必须勾选“采购”"
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:13
-msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erpnext.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
+msgid "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a <a href='https://docs.erp-quantum.com/docs/user/manual/en/setting-up/settings/naming-series' target='_blank'>Naming Series</a> choose the 'Naming Series' option."
 msgstr ""
 
 #. Label of the bypass_credit_limit_check (Check) field in DocType 'Customer
@@ -18046,7 +18046,7 @@ msgstr ""
 
 #. Label of the user_id (Data) field in DocType 'Employee Group Table'
 #: erpnext/setup/doctype/employee_group_table/employee_group_table.json
-msgid "ERPNext User ID"
+msgid "Qunatum ERP User ID"
 msgstr ""
 
 #. Option for the 'Update frequency of Project' (Select) field in DocType
@@ -23220,11 +23220,11 @@ msgid "If this item has variants, then it cannot be selected in sales orders etc
 msgstr ""
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:27
-msgid "If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
+msgid "If this option is configured 'Yes', Qunatum ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
 msgstr "如果将此选项配置为“是”，ERPNext将阻止您创建采购发票或收据而无需先创建采购订单。通过启用供应商主数据中的“允许创建无购买订单的发票”复选框，可以为特定供应商覆盖此配置。"
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:34
-msgid "If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
+msgid "If this option is configured 'Yes', Qunatum ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
 msgstr "如果将此选项配置为“是”，则ERPNext将阻止您创建采购发票而不先创建采购收据。通过启用供应商主数据中的“允许创建没有购买收据的购买发票”复选框，可以为特定供应商覆盖此配置。"
 
 #: erpnext/manufacturing/doctype/manufacturing_settings/manufacturing_settings.js:10
@@ -23246,7 +23246,7 @@ msgid "If yes, then this warehouse will be used to store rejected materials"
 msgstr ""
 
 #: erpnext/stock/doctype/item/item.js:947
-msgid "If you are maintaining stock of this Item in your Inventory, ERPNext will make a stock ledger entry for each transaction of this item."
+msgid "If you are maintaining stock of this Item in your Inventory, Qunatum ERP will make a stock ledger entry for each transaction of this item."
 msgstr ""
 
 #. Description of the 'Unreconciled Entries' (Section Break) field in DocType
@@ -27923,7 +27923,7 @@ msgstr ""
 #. 'Accounts Settings'
 #: erpnext/accounts/doctype/accounts_settings/accounts_settings.json
 #, python-format
-msgid "Learn about <a href=\"https://docs.erpnext.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier.\">Common Party</a>"
+msgid "Learn about <a href=\"https://docs.erp-quantum.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier.\">Common Party</a>"
 msgstr ""
 
 #. Label of the leave_encashed (Select) field in DocType 'Employee'
@@ -53352,7 +53352,7 @@ msgid "The shares don't exist with the {0}"
 msgstr "这些份额不存在{0}"
 
 #: erpnext/stock/stock_ledger.py:769
-msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.erpnext.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
+msgid "The stock for the item {0} in the {1} warehouse was negative on the {2}. You should create a positive entry {3} before the date {4} and time {5} to post the correct valuation rate. For more details, please read the <a href='https://docs.erp-quantum.com/docs/user/manual/en/stock-adjustment-cogs-with-negative-stock'>documentation<a>."
 msgstr ""
 
 #: erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:657
@@ -53459,7 +53459,7 @@ msgid "There are only {0} asset created or linked to {1}. Please create or link 
 msgstr ""
 
 #: erpnext/stock/doctype/item/item.js:966
-msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.erpnext.com/docs/v13/user/manual/en/stock/articles/item-valuation-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
+msgid "There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit <a href='https://docs.erp-quantum.com/docs/v13/user/manual/en/stock/articles/item-valuation-fifo-and-moving-average' target='_blank'>Item Valuation, FIFO and Moving Average.</a>"
 msgstr ""
 
 #: erpnext/stock/report/item_variant_details/item_variant_details.py:25
@@ -53562,7 +53562,7 @@ msgid "This action will stop future billing. Are you sure you want to cancel thi
 msgstr "此操作将停止未来的结算。您确定要取消此订阅吗？"
 
 #: erpnext/accounts/doctype/bank_account/bank_account.js:35
-msgid "This action will unlink this account from any external service integrating ERPNext with your bank accounts. It cannot be undone. Are you certain ?"
+msgid "This action will unlink this account from any external service integrating Qunatum ERP with your bank accounts. It cannot be undone. Are you certain ?"
 msgstr "此操作将取消此帐户与将ERPNext与您的银行帐户集成的任何外部服务的链接。它无法撤消。你确定吗 ？"
 
 #: erpnext/buying/doctype/supplier_scorecard/supplier_scorecard_dashboard.py:7
@@ -57879,7 +57879,7 @@ msgid "Vouchers"
 msgstr ""
 
 #: erpnext/patches/v15_0/remove_exotel_integration.py:32
-msgid "WARNING: Exotel app has been separated from ERPNext, please install the app to continue using Exotel integration."
+msgid "WARNING: Exotel app has been separated from Qunatum ERP, please install the app to continue using Exotel integration."
 msgstr ""
 
 #. Label of the wip_composite_asset (Link) field in DocType 'Purchase Invoice
@@ -59530,8 +59530,8 @@ msgid "Zip File"
 msgstr ""
 
 #: erpnext/stock/reorder_item.py:374
-msgid "[Important] [ERPNext] Auto Reorder Errors"
-msgstr "[重要] [ERPNext]自动重新排序错误"
+msgid "[Important] [Qunatum ERP] Auto Reorder Errors"
+msgstr "[重要] [Qunatum ERP]自动重新排序错误"
 
 #: erpnext/controllers/status_updater.py:274
 msgid "`Allow Negative rates for Items`"
