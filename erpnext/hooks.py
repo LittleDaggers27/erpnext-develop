@@ -1,4 +1,4 @@
-app_name = "erpnext"
+app_name = "quantumerp"
 app_title = "Qunatum ERP"
 app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
@@ -7,13 +7,13 @@ app_color = "#e74c3c"
 app_email = "info@erp-quantum.com"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/frappe/erpnext"
-app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
+app_logo_url = "/assets/erpnext/images/quantumerp-logo.svg"
 app_home = "/app/home"
 
 add_to_apps_screen = [
 	{
 		"name": app_name,
-		"logo": "/assets/erpnext/images/erpnext-logo-blue.png",
+		"logo": "/assets/erpnext/images/quantumerp-logo-blue.png",
 		"title": app_title,
 		"route": app_home,
 		"has_permission": "erpnext.check_app_permission",
@@ -110,7 +110,7 @@ website_generators = ["BOM", "Sales Partner"]
 
 website_context = {
 	"favicon": "/assets/erpnext/images/erpnext-favicon.svg",
-	"splash_image": "/assets/erpnext/images/erpnext-logo.svg",
+	"splash_image": "/assets/erpnext/images/quantumerp-logo.svg",
 }
 
 # nosemgrep
@@ -474,7 +474,7 @@ scheduler_events = {
 	],
 }
 
-email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
+email_brand_image = "assets/erpnext/images/quantumerp-logo.jpg"
 
 default_mail_footer = """
 	<span>
