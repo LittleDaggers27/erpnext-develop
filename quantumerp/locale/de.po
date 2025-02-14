@@ -6262,7 +6262,7 @@ msgstr "Attribute"
 msgid "Auditor"
 msgstr "Wirtschaftsprüfer"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_connector.py:68
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:68
 msgid "Authentication Failed"
 msgstr "Authentifizierung fehlgeschlagen"
 
@@ -7198,7 +7198,7 @@ msgstr "Saldo muss sein"
 #: erpnext/accounts/doctype/payment_request/payment_request.json
 #: erpnext/accounts/report/account_balance/account_balance.js:39
 #: erpnext/accounts/workspace/accounting/accounting.json
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:99
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:99
 #: erpnext/setup/doctype/employee/employee.json
 msgid "Bank"
 msgstr "Bank"
@@ -7399,7 +7399,7 @@ msgstr "Kontoauszug Bilanz nach Hauptbuch"
 
 #. Name of a DocType
 #: erpnext/accounts/doctype/bank_transaction/bank_transaction.json
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:32
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:32
 msgid "Bank Transaction"
 msgstr "Banktransaktion"
 
@@ -7439,15 +7439,15 @@ msgstr "Banktransaktion {0} aktualisiert"
 msgid "Bank account cannot be named as {0}"
 msgstr "Bankname {0} ungültig"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:146
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:146
 msgid "Bank account {0} already exists and could not be created again"
 msgstr "Das Bankkonto {0} ist bereits vorhanden und konnte nicht erneut erstellt werden"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:158
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:158
 msgid "Bank accounts added"
 msgstr "Bankkonten hinzugefügt"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:311
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:311
 msgid "Bank transaction creation error"
 msgstr "Fehler beim Erstellen der Banküberweisung"
 
@@ -9457,7 +9457,7 @@ msgstr "Für diese Berechnungsart kann keine Zeilennummern zugeschrieben werden,
 msgid "Cannot retrieve link token for update. Check Error Log for more information"
 msgstr "Link-Token für Update kann nicht abgerufen werden. Prüfen Sie das Fehlerprotokoll für weitere Informationen"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:68
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:68
 msgid "Cannot retrieve link token. Check Error Log for more information"
 msgstr "Link-Token kann nicht abgerufen werden. Prüfen Sie das Fehlerprotokoll für weitere Informationen"
 
@@ -10866,7 +10866,7 @@ msgstr "Firmen"
 #: erpnext/crm/report/lost_opportunity/lost_opportunity.js:8
 #: erpnext/crm/report/opportunity_summary_by_sales_stage/opportunity_summary_by_sales_stage.js:57
 #: erpnext/crm/report/sales_pipeline_analytics/sales_pipeline_analytics.js:51
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:133
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:133
 #: erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.json
 #: erpnext/maintenance/doctype/maintenance_visit/maintenance_visit.json
 #: erpnext/manufacturing/doctype/blanket_order/blanket_order.json
@@ -11998,7 +11998,7 @@ msgstr "Inhalt"
 msgid "Content Type"
 msgstr "Inhaltstyp"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:162
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:162
 #: erpnext/public/js/controllers/transaction.js:2289
 #: erpnext/selling/doctype/quotation/quotation.js:345
 msgid "Continue"
@@ -12615,7 +12615,7 @@ msgstr "Schichten konnten nicht automatisch aktualisiert werden. Schicht mit Sch
 msgid "Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again"
 msgstr "Gutschrift konnte nicht automatisch erstellt werden, bitte deaktivieren Sie &#39;Gutschrift ausgeben&#39; und senden Sie sie erneut"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:353
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:353
 msgid "Could not detect the Company for updating Bank Accounts"
 msgstr "Konnte das Unternehmen für die Aktualisierung der Bankkonten nicht finden"
 
@@ -18621,7 +18621,7 @@ msgstr "Gewährte Rabatte gesondert buchen"
 
 #. Label of the enable_european_access (Check) field in DocType 'Plaid
 #. Settings'
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Enable European Access"
 msgstr "Ermöglichen Sie den europäischen Zugang"
 
@@ -18696,7 +18696,7 @@ msgstr "Anwendung des SLA auf jede {0} aktivieren"
 #. Label of the enabled (Check) field in DocType 'Price List'
 #. Label of the enabled (Check) field in DocType 'Service Level Agreement'
 #: erpnext/accounts/doctype/mode_of_payment/mode_of_payment.json
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 #: erpnext/manufacturing/doctype/workstation_working_hour/workstation_working_hour.json
 #: erpnext/setup/doctype/email_digest/email_digest.json
 #: erpnext/setup/doctype/sales_person/sales_person.json
@@ -25185,7 +25185,7 @@ msgid "Is Billable"
 msgstr "Ist abrechenbar"
 
 #. Label of the is_billing_contact (Check) field in DocType 'Contact'
-#: erpnext/erpnext_integrations/custom/contact.json
+#: erpnext/quantumerp_integrations/custom/contact.json
 msgid "Is Billing Contact"
 msgstr "Ist Rechnungskontakt"
 
@@ -28200,7 +28200,7 @@ msgstr "Verknüpfung"
 msgid "Link Options"
 msgstr "Verknüpfungsoptionen"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:15
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:15
 msgid "Link a new bank account"
 msgstr "Neues Bankkonto verknüpfen"
 
@@ -36105,21 +36105,21 @@ msgid "Plaid Access Token"
 msgstr "Plaid-Zugriffstoken"
 
 #. Label of the plaid_client_id (Data) field in DocType 'Plaid Settings'
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Client ID"
 msgstr "Plaid Client ID"
 
 #. Label of the plaid_env (Select) field in DocType 'Plaid Settings'
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Environment"
 msgstr "Plaid-Umgebung"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:154
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:178
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:154
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:178
 msgid "Plaid Link Failed"
 msgstr "Plaid-Link fehlgeschlagen"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:252
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:252
 msgid "Plaid Link Refresh Required"
 msgstr "Aktualisierung des Plaid-Links erforderlich"
 
@@ -36128,18 +36128,18 @@ msgid "Plaid Link Updated"
 msgstr "Plaid-Link aktualisiert"
 
 #. Label of the plaid_secret (Password) field in DocType 'Plaid Settings'
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Secret"
 msgstr "Plaid Secret"
 
 #. Label of a Link in the Accounting Workspace
 #. Name of a DocType
 #: erpnext/accounts/workspace/accounting/accounting.json
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Plaid Settings"
 msgstr "Plaid-Einstellungen"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:227
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:227
 msgid "Plaid transactions sync error"
 msgstr "Synchronisierungsfehler für Plaid-Transaktionen"
 
@@ -36384,7 +36384,7 @@ msgstr ""
 msgid "Please check the error message and take necessary actions to fix the error and then restart the reposting again."
 msgstr ""
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_connector.py:65
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_connector.py:65
 msgid "Please check your Plaid client ID and secret values"
 msgstr "Bitte überprüfen Sie Ihre Plaid-Client-ID und Ihre geheimen Werte"
 
@@ -36723,7 +36723,7 @@ msgstr "Bitte Artikel aus dem Lieferschein ziehen"
 msgid "Please rectify and try again."
 msgstr "Bitte korrigieren Sie den Fehler und versuchen Sie es erneut."
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:251
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:251
 msgid "Please refresh or reset the Plaid linking of the Bank {}."
 msgstr "Bitte aktualisieren oder setzen Sie die Plaid-Verknüpfung der Bank {} zurück."
 
@@ -37274,7 +37274,7 @@ msgstr ""
 msgid "Please set {0} to {1}, the same account that was used in the original invoice {2}."
 msgstr ""
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:97
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:97
 msgid "Please setup and enable a group account with the Account Type - {0} for the company {1}"
 msgstr "Bitte richten Sie ein Gruppenkonto mit dem Kontotyp - {0} für die Firma {1} ein und aktivieren Sie es"
 
@@ -43472,7 +43472,7 @@ msgstr "Zurücksetzen"
 msgid "Reset Company Default Values"
 msgstr "Standardwerte des Unternehmens zurücksetzen"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:19
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:19
 msgid "Reset Plaid Link"
 msgstr "Plaid-Link zurücksetzen"
 
@@ -46783,7 +46783,7 @@ msgstr "Wählen Sie einen Lieferanten aus"
 msgid "Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only."
 msgstr "Wählen Sie einen Lieferanten aus den Standardlieferanten der folgenden Artikel aus. Bei der Auswahl erfolgt eine Bestellung nur für Artikel, die dem ausgewählten Lieferanten gehören."
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:161
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:161
 msgid "Select a company"
 msgstr "Wählen Sie eine Firma aus"
 
@@ -51671,16 +51671,16 @@ msgstr "Zwischen Zahlungsweisen wechseln"
 msgid "Symbol"
 msgstr "Symbol"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:23
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:23
 msgid "Sync Now"
 msgstr "Jetzt synchronisieren"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:36
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:36
 msgid "Sync Started"
 msgstr "Synchronisierung gestartet"
 
 #. Label of the automatic_sync (Check) field in DocType 'Plaid Settings'
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "Synchronize all accounts every hour"
 msgstr "Synchronisieren Sie alle Konten stündlich"
 
@@ -51760,7 +51760,7 @@ msgstr "Synchronisieren Sie alle Konten stündlich"
 #: erpnext/crm/doctype/prospect/prospect.json
 #: erpnext/edi/doctype/code_list/code_list.json
 #: erpnext/edi/doctype/common_code/common_code.json
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 #: erpnext/manufacturing/doctype/blanket_order/blanket_order.json
 #: erpnext/manufacturing/doctype/bom_update_log/bom_update_log.json
 #: erpnext/manufacturing/doctype/downtime_entry/downtime_entry.json
@@ -53373,7 +53373,7 @@ msgstr ""
 msgid "The stock has been reserved for the following Items and Warehouses, un-reserve the same to {0} the Stock Reconciliation: <br /><br /> {1}"
 msgstr ""
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:37
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:37
 msgid "The sync has started in the background, please check the {0} list for new records."
 msgstr "Die Synchronisierung wurde im Hintergrund gestartet. Bitte überprüfen Sie die Liste {0} auf neue Datensätze."
 
@@ -53508,7 +53508,7 @@ msgstr "Es wurde kein Stapel für {0} gefunden: {1}"
 msgid "There must be atleast 1 Finished Good in this Stock Entry"
 msgstr "Es muss mindestens 1 Fertigerzeugnis in dieser Lagerbewegung vorhanden sein"
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:153
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:153
 msgid "There was an error creating Bank Account while linking with Plaid."
 msgstr "Bei der Verknüpfung mit Plaid ist ein Fehler beim Erstellen des Bankkontos aufgetreten."
 
@@ -53516,16 +53516,16 @@ msgstr "Bei der Verknüpfung mit Plaid ist ein Fehler beim Erstellen des Bankkon
 msgid "There was an error saving the document."
 msgstr "Beim Speichern des Dokuments ist ein Fehler aufgetreten."
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:250
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:250
 msgid "There was an error syncing transactions."
 msgstr "Es ist ein Fehler bei der Synchronisierung von Transaktionen aufgetreten."
 
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:175
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.py:175
 msgid "There was an error updating Bank Account {} while linking with Plaid."
 msgstr "Beim Verknüpfen mit Plaid ist beim Aktualisieren des Bankkontos {} ein Fehler aufgetreten."
 
 #: erpnext/accounts/doctype/bank/bank.js:115
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.js:119
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.js:119
 msgid "There was an issue connecting to Plaid's authentication server. Check browser console for more information"
 msgstr "Es gab ein Problem bei der Verbindung mit dem Authentifizierungsserver von Plaid. Prüfen Sie die Browser-Konsole für weitere Informationen"
 
@@ -56466,7 +56466,7 @@ msgstr "Bis"
 msgid "Unverified"
 msgstr "Nicht verifiziert"
 
-#: erpnext/erpnext_integrations/utils.py:22
+#: erpnext/quantumerp_integrations/utils.py:22
 msgid "Unverified Webhook Data"
 msgstr "Ungeprüfte Webhook-Daten"
 
@@ -59605,7 +59605,7 @@ msgstr "beschreibung"
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "development"
 msgstr "Entwicklung"
 
@@ -59785,7 +59785,7 @@ msgstr ""
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "production"
 msgstr "Produktion"
 
@@ -59829,7 +59829,7 @@ msgstr "Rechts"
 
 #. Option for the 'Plaid Environment' (Select) field in DocType 'Plaid
 #. Settings'
-#: erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.json
+#: erpnext/quantumerp_integrations/doctype/plaid_settings/plaid_settings.json
 msgid "sandbox"
 msgstr "Sandkasten"
 
