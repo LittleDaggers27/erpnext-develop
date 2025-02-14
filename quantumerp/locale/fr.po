@@ -17966,8 +17966,8 @@ msgstr ""
 
 #. Label of the user_id (Data) field in DocType 'Employee Group Table'
 #: erpnext/setup/doctype/employee_group_table/employee_group_table.json
-msgid "Qunatum ERP User ID"
-msgstr "ID utilisateur Qunatum ERP"
+msgid "Quantum ERP User ID"
+msgstr "ID utilisateur Quantum ERP"
 
 #. Option for the 'Update frequency of Project' (Select) field in DocType
 #. 'Buying Settings'
@@ -23140,12 +23140,12 @@ msgid "If this item has variants, then it cannot be selected in sales orders etc
 msgstr "Si cet article a des variantes, alors il ne peut pas être sélectionné dans les commandes clients, etc."
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:27
-msgid "If this option is configured 'Yes', Qunatum ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
-msgstr "Si cette option est configurée «Oui», Qunatum ERP vous empêchera de créer une facture d'achat ou un reçu sans créer d'abord une Commande d'Achat. Cette configuration peut être remplacée pour un fournisseur particulier en cochant la case «Autoriser la création de facture d'achat sans commmande d'achat» dans la fiche fournisseur."
+msgid "If this option is configured 'Yes', Quantum ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
+msgstr "Si cette option est configurée «Oui», Quantum ERP vous empêchera de créer une facture d'achat ou un reçu sans créer d'abord une Commande d'Achat. Cette configuration peut être remplacée pour un fournisseur particulier en cochant la case «Autoriser la création de facture d'achat sans commmande d'achat» dans la fiche fournisseur."
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:34
-msgid "If this option is configured 'Yes', Qunatum ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
-msgstr "Si cette option est configurée «Oui», Qunatum ERP vous empêchera de créer une facture d'achat sans créer d'abord un reçu d'achat. Cette configuration peut être remplacée pour un fournisseur particulier en cochant la case &quot;Autoriser la création de facture d'achat sans reçu d'achat&quot; dans la fiche fournisseur."
+msgid "If this option is configured 'Yes', Quantum ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
+msgstr "Si cette option est configurée «Oui», Quantum ERP vous empêchera de créer une facture d'achat sans créer d'abord un reçu d'achat. Cette configuration peut être remplacée pour un fournisseur particulier en cochant la case &quot;Autoriser la création de facture d'achat sans reçu d'achat&quot; dans la fiche fournisseur."
 
 #: erpnext/manufacturing/doctype/manufacturing_settings/manufacturing_settings.js:10
 msgid "If ticked, multiple materials can be used for a single Work Order. This is useful if one or more time consuming products are being manufactured."
@@ -23166,7 +23166,7 @@ msgid "If yes, then this warehouse will be used to store rejected materials"
 msgstr ""
 
 #: erpnext/stock/doctype/item/item.js:947
-msgid "If you are maintaining stock of this Item in your Inventory, Qunatum ERP will make a stock ledger entry for each transaction of this item."
+msgid "If you are maintaining stock of this Item in your Inventory, Quantum ERP will make a stock ledger entry for each transaction of this item."
 msgstr ""
 
 #. Description of the 'Unreconciled Entries' (Section Break) field in DocType
@@ -53482,8 +53482,8 @@ msgid "This action will stop future billing. Are you sure you want to cancel thi
 msgstr "Cette action arrêtera la facturation future. Êtes-vous sûr de vouloir annuler cet abonnement?"
 
 #: erpnext/accounts/doctype/bank_account/bank_account.js:35
-msgid "This action will unlink this account from any external service integrating Qunatum ERP with your bank accounts. It cannot be undone. Are you certain ?"
-msgstr "Cette action dissociera ce compte de tout service externe intégrant Qunatum ERP avec vos comptes bancaires. Ça ne peut pas être défait. Êtes-vous sûr ?"
+msgid "This action will unlink this account from any external service integrating Quantum ERP with your bank accounts. It cannot be undone. Are you certain ?"
+msgstr "Cette action dissociera ce compte de tout service externe intégrant Quantum ERP avec vos comptes bancaires. Ça ne peut pas être défait. Êtes-vous sûr ?"
 
 #: erpnext/buying/doctype/supplier_scorecard/supplier_scorecard_dashboard.py:7
 msgid "This covers all scorecards tied to this Setup"
@@ -57799,7 +57799,7 @@ msgid "Vouchers"
 msgstr "Pièces justificatives"
 
 #: erpnext/patches/v15_0/remove_exotel_integration.py:32
-msgid "WARNING: Exotel app has been separated from Qunatum ERP, please install the app to continue using Exotel integration."
+msgid "WARNING: Exotel app has been separated from Quantum ERP, please install the app to continue using Exotel integration."
 msgstr ""
 
 #. Label of the wip_composite_asset (Link) field in DocType 'Purchase Invoice
@@ -59450,8 +59450,8 @@ msgid "Zip File"
 msgstr "Fichier zip"
 
 #: erpnext/stock/reorder_item.py:374
-msgid "[Important] [Qunatum ERP] Auto Reorder Errors"
-msgstr "[Important] [Qunatum ERP] Erreurs de réorganisation automatique"
+msgid "[Important] [Quantum ERP] Auto Reorder Errors"
+msgstr "[Important] [Quantum ERP] Erreurs de réorganisation automatique"
 
 #: erpnext/controllers/status_updater.py:274
 msgid "`Allow Negative rates for Items`"

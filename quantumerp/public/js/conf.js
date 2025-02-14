@@ -17,7 +17,7 @@ $.extend(frappe.breadcrumbs.preferred, {
 });
 
 $.extend(frappe.breadcrumbs.module_map, {
-	"Qunatum ERP Integrations": "Integrations",
+	"Quantum ERP Integrations": "Integrations",
 	Geo: "Settings",
 	Portal: "Website",
 	Utilities: "Settings",

@@ -371,7 +371,7 @@ def get_comapny_wise_users(company):
 
 
 def notify_errors(exceptions_list):
-	subject = _("[Important] [Qunatum ERP] Auto Reorder Errors")
+	subject = _("[Important] [Quantum ERP] Auto Reorder Errors")
 	content = (
 		_("Dear System Manager,")
 		+ "<br>"

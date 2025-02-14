@@ -1,7 +1,7 @@
 # Copyright (c) 2015, Frappe Technologies Pvt. Ltd. and Contributors
 # License: GNU General Public License v3. See license.txt
 
-# Qunatum ERP - web based ERP (http://erp-quantum.com)
+# Quantum ERP - web based ERP (http://erp-quantum.com)
 # For license information, please see license.txt
 
 

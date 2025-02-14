@@ -25,7 +25,7 @@
       "fieldname": "user_id",
       "fieldtype": "Data",
       "in_list_view": 1,
-      "label": "Qunatum ERP User ID",
+      "label": "Quantum ERP User ID",
       "read_only": 1
     }
   ],

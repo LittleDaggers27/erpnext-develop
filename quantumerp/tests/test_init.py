@@ -14,22 +14,22 @@ class TestInit(IntegrationTestCase):
 
 		names = [
 			"Warehouse Name",
-			"Qunatum ERP Foundation India",
+			"Quantum ERP Foundation India",
 			f"Gold - Member - {abbr}",
 			f" - {abbr}",
-			"Qunatum ERP - Foundation - India",
-			f"Qunatum ERP Foundation India - {abbr}",
+			"Quantum ERP - Foundation - India",
+			f"Quantum ERP Foundation India - {abbr}",
 			f"No-Space-{abbr}",
 			"- Warehouse",
 		]
 
 		expected_names = [
 			f"Warehouse Name - {abbr}",
-			f"Qunatum ERP Foundation India - {abbr}",
+			f"Quantum ERP Foundation India - {abbr}",
 			f"Gold - Member - {abbr}",
 			f" - {abbr}",
-			f"Qunatum ERP - Foundation - India - {abbr}",
-			f"Qunatum ERP Foundation India - {abbr}",
+			f"Quantum ERP - Foundation - India - {abbr}",
+			f"Quantum ERP Foundation India - {abbr}",
 			f"No-Space-{abbr} - {abbr}",
 			f"- Warehouse - {abbr}",
 		]

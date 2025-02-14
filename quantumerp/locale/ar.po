@@ -17942,8 +17942,8 @@ msgstr ""
 
 #. Label of the user_id (Data) field in DocType 'Employee Group Table'
 #: erpnext/setup/doctype/employee_group_table/employee_group_table.json
-msgid "Qunatum ERP User ID"
-msgstr "معرف المستخدم Qunatum ERP"
+msgid "Quantum ERP User ID"
+msgstr "معرف المستخدم Quantum ERP"
 
 #. Option for the 'Update frequency of Project' (Select) field in DocType
 #. 'Buying Settings'
@@ -23116,12 +23116,12 @@ msgid "If this item has variants, then it cannot be selected in sales orders etc
 msgstr "إذا كان هذا البند لديها بدائل، فإنه لا يمكن اختيارها في أوامر البيع الخ"
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:27
-msgid "If this option is configured 'Yes', Qunatum ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
-msgstr "إذا تم تكوين هذا الخيار &quot;نعم&quot; ، سيمنعك Qunatum ERP من إنشاء فاتورة شراء أو إيصال دون إنشاء أمر شراء أولاً. يمكن تجاوز هذا التكوين لمورد معين عن طريق تمكين مربع الاختيار &quot;السماح بإنشاء فاتورة الشراء بدون أمر شراء&quot; في مدير المورد."
+msgid "If this option is configured 'Yes', Quantum ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
+msgstr "إذا تم تكوين هذا الخيار &quot;نعم&quot; ، سيمنعك Quantum ERP من إنشاء فاتورة شراء أو إيصال دون إنشاء أمر شراء أولاً. يمكن تجاوز هذا التكوين لمورد معين عن طريق تمكين مربع الاختيار &quot;السماح بإنشاء فاتورة الشراء بدون أمر شراء&quot; في مدير المورد."
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:34
-msgid "If this option is configured 'Yes', Qunatum ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
-msgstr "إذا تم تكوين هذا الخيار &quot;نعم&quot; ، سيمنعك Qunatum ERP من إنشاء فاتورة شراء دون إنشاء إيصال شراء أولاً. يمكن تجاوز هذا التكوين لمورد معين عن طريق تمكين مربع الاختيار &quot;السماح بإنشاء فاتورة الشراء بدون إيصال شراء&quot; في مدير المورد."
+msgid "If this option is configured 'Yes', Quantum ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
+msgstr "إذا تم تكوين هذا الخيار &quot;نعم&quot; ، سيمنعك Quantum ERP من إنشاء فاتورة شراء دون إنشاء إيصال شراء أولاً. يمكن تجاوز هذا التكوين لمورد معين عن طريق تمكين مربع الاختيار &quot;السماح بإنشاء فاتورة الشراء بدون إيصال شراء&quot; في مدير المورد."
 
 #: erpnext/manufacturing/doctype/manufacturing_settings/manufacturing_settings.js:10
 msgid "If ticked, multiple materials can be used for a single Work Order. This is useful if one or more time consuming products are being manufactured."
@@ -23142,7 +23142,7 @@ msgid "If yes, then this warehouse will be used to store rejected materials"
 msgstr ""
 
 #: erpnext/stock/doctype/item/item.js:947
-msgid "If you are maintaining stock of this Item in your Inventory, Qunatum ERP will make a stock ledger entry for each transaction of this item."
+msgid "If you are maintaining stock of this Item in your Inventory, Quantum ERP will make a stock ledger entry for each transaction of this item."
 msgstr ""
 
 #. Description of the 'Unreconciled Entries' (Section Break) field in DocType
@@ -53458,8 +53458,8 @@ msgid "This action will stop future billing. Are you sure you want to cancel thi
 msgstr "سيوقف هذا الإجراء الفوترة المستقبلية. هل أنت متأكد من أنك تريد إلغاء هذا الاشتراك؟"
 
 #: erpnext/accounts/doctype/bank_account/bank_account.js:35
-msgid "This action will unlink this account from any external service integrating Qunatum ERP with your bank accounts. It cannot be undone. Are you certain ?"
-msgstr "سيؤدي هذا الإجراء إلى إلغاء ربط هذا الحساب بأي خدمة خارجية تدمج Qunatum ERP مع حساباتك المصرفية. لا يمكن التراجع. هل أنت متأكد؟"
+msgid "This action will unlink this account from any external service integrating Quantum ERP with your bank accounts. It cannot be undone. Are you certain ?"
+msgstr "سيؤدي هذا الإجراء إلى إلغاء ربط هذا الحساب بأي خدمة خارجية تدمج Quantum ERP مع حساباتك المصرفية. لا يمكن التراجع. هل أنت متأكد؟"
 
 #: erpnext/buying/doctype/supplier_scorecard/supplier_scorecard_dashboard.py:7
 msgid "This covers all scorecards tied to this Setup"
@@ -57775,7 +57775,7 @@ msgid "Vouchers"
 msgstr "قسائم"
 
 #: erpnext/patches/v15_0/remove_exotel_integration.py:32
-msgid "WARNING: Exotel app has been separated from Qunatum ERP, please install the app to continue using Exotel integration."
+msgid "WARNING: Exotel app has been separated from Quantum ERP, please install the app to continue using Exotel integration."
 msgstr ""
 
 #. Label of the wip_composite_asset (Link) field in DocType 'Purchase Invoice
@@ -59426,8 +59426,8 @@ msgid "Zip File"
 msgstr "ملف مضغوط"
 
 #: erpnext/stock/reorder_item.py:374
-msgid "[Important] [Qunatum ERP] Auto Reorder Errors"
-msgstr "[هام] [Qunatum ERP] إعادة ترتيب الأخطاء تلقائيًا"
+msgid "[Important] [Quantum ERP] Auto Reorder Errors"
+msgstr "[هام] [Quantum ERP] إعادة ترتيب الأخطاء تلقائيًا"
 
 #: erpnext/controllers/status_updater.py:274
 msgid "`Allow Negative rates for Items`"

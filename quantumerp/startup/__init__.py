@@ -1,4 +1,4 @@
-# Qunatum ERP - web based ERP (http://erp-quantum.com)
+# Quantum ERP - web based ERP (http://erp-quantum.com)
 # Copyright (C) 2012 Frappe Technologies Pvt Ltd
 #
 # This program is free software: you can redistribute it and/or modify
@@ -16,5 +16,5 @@
 
 # default settings that can be made for a user.
 
-product_name = "Qunatum ERP"
+product_name = "Quantum ERP"
 user_defaults = {"Company": "company", "Territory": "territory"}

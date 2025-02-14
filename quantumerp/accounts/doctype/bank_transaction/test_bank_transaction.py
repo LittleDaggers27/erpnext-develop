@@ -44,7 +44,7 @@ class TestBankTransaction(IntegrationTestCase):
 		add_transactions(bank_account=bank_account)
 		add_vouchers(gl_account=gl_account)
 
-	# This test checks if Qunatum ERP is able to provide a linked payment for a bank transaction based on the amount of the bank transaction.
+	# This test checks if Quantum ERP is able to provide a linked payment for a bank transaction based on the amount of the bank transaction.
 	def test_linked_payments(self):
 		bank_transaction = frappe.get_doc(
 			"Bank Transaction",
@@ -113,7 +113,7 @@ class TestBankTransaction(IntegrationTestCase):
 		self.assertEqual(bank_transaction.unallocated_amount, 1700)
 		self.assertEqual(bank_transaction.payment_entries, [])
 
-	# Check if Qunatum ERP can correctly filter a linked payments based on the debit/credit amount
+	# Check if Quantum ERP can correctly filter a linked payments based on the debit/credit amount
 	def test_debit_credit_output(self):
 		bank_transaction = frappe.get_doc(
 			"Bank Transaction",

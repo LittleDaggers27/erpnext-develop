@@ -1,8 +1,8 @@
 <div align="center">
     <a href="https://erp-quantum.com">
-	<img src="./erpnext/public/images/v16/erpnext.svg" alt="Qunatum ERP Logo" height="80px" width="80xp"/>
+	<img src="./erpnext/public/images/v16/erpnext.svg" alt="Quantum ERP Logo" height="80px" width="80xp"/>
     </a>
-    <h2>Qunatum ERP</h2>
+    <h2>Quantum ERP</h2>
     <p align="center">
         <p>Powerful, Intuitive and Open-Source ERP</p>
     </p>
@@ -24,13 +24,13 @@
 	<a href="https://docs.erp-quantum.com">Documentation</a>
 </div>
 
-## Qunatum ERP
+## Quantum ERP
 
 100% Open-Source ERP system to help you run your business.
 
 ### Motivation
 
-Running a business is a complex task - handling invoices, tracking stock, managing personnel and even more ad-hoc activities. In a market where software is sold separately to manage each of these tasks, Qunatum ERP does all of the above and more, for free.
+Running a business is a complex task - handling invoices, tracking stock, managing personnel and even more ad-hoc activities. In a market where software is sold separately to manage each of these tasks, Quantum ERP does all of the above and more, for free.
 
 ### Key Features
 
@@ -99,7 +99,7 @@ See [Frappe Docker](https://github.com/frappe/frappe_docker?tab=readme-ov-file#t
 
 The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://github.com/frappe/bench for more details.
 
-New passwords will be created for the Qunatum ERP "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
+New passwords will be created for the Quantum ERP "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
 
 
 ### Local
@@ -115,16 +115,16 @@ To setup the repository locally follow the steps mentioned below:
    ```
    # Create a new site
    bench new-site erpnext.dev
-   
+
    # Map your site to localhost
    bench --site erpnext.dev add-to-hosts
    ```
-	
-3. Get the Qunatum ERP app and install it
+
+3. Get the Quantum ERP app and install it
    ```
-   # Get the Qunatum ERP app
+   # Get the Quantum ERP app
    bench get-app https://github.com/frappe/erpnext
-   
+
    # Install the app
    bench --site erpnext.dev install-app erpnext
    ```
@@ -133,9 +133,9 @@ To setup the repository locally follow the steps mentioned below:
 
 ## Learning and community
 
-1. [Frappe School](https://frappe.school) - Learn Frappe Framework and Qunatum ERP from the various courses by the maintainers or from the community.
-2. [Official documentation](https://docs.erp-quantum.com/) - Extensive documentation for Qunatum ERP.
-3. [Discussion Forum](https://discuss.erp-quantum.com/) - Engage with community of Qunatum ERP users and service providers.
+1. [Frappe School](https://frappe.school) - Learn Frappe Framework and Quantum ERP from the various courses by the maintainers or from the community.
+2. [Official documentation](https://docs.erp-quantum.com/) - Extensive documentation for Quantum ERP.
+3. [Discussion Forum](https://discuss.erp-quantum.com/) - Engage with community of Quantum ERP users and service providers.
 4. [Telegram Group](https://erpnext_public.t.me) - Get instant help from huge community of users.
 
 

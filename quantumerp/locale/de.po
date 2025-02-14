@@ -18048,8 +18048,8 @@ msgstr "Elektromagnetische Einheit der Stromstärke"
 
 #. Label of the user_id (Data) field in DocType 'Employee Group Table'
 #: erpnext/setup/doctype/employee_group_table/employee_group_table.json
-msgid "Qunatum ERP User ID"
-msgstr "Qunatum ERP-Benutzer-ID"
+msgid "Quantum ERP User ID"
+msgstr "Quantum ERP-Benutzer-ID"
 
 #. Option for the 'Update frequency of Project' (Select) field in DocType
 #. 'Buying Settings'
@@ -23228,12 +23228,12 @@ msgid "If this item has variants, then it cannot be selected in sales orders etc
 msgstr "Wenn dieser Artikel Varianten hat, dann kann er bei den Aufträgen, etc. nicht ausgewählt werden"
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:27
-msgid "If this option is configured 'Yes', Qunatum ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
-msgstr "Wenn diese Option auf 'Ja' gesetzt ist, validiert Qunatum ERP, dass Sie eine Bestellung angelegt haben, bevor Sie eine Eingangsrechnung oder einen Eingangsbeleg erfassen können. Diese Konfiguration kann für einzelne Lieferanten überschrieben werden, indem Sie die Option 'Erstellung von Eingangsrechnungen ohne Bestellung zulassen' im Lieferantenstamm aktivieren."
+msgid "If this option is configured 'Yes', Quantum ERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master."
+msgstr "Wenn diese Option auf 'Ja' gesetzt ist, validiert Quantum ERP, dass Sie eine Bestellung angelegt haben, bevor Sie eine Eingangsrechnung oder einen Eingangsbeleg erfassen können. Diese Konfiguration kann für einzelne Lieferanten überschrieben werden, indem Sie die Option 'Erstellung von Eingangsrechnungen ohne Bestellung zulassen' im Lieferantenstamm aktivieren."
 
 #: erpnext/buying/doctype/buying_settings/buying_settings.js:34
-msgid "If this option is configured 'Yes', Qunatum ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
-msgstr "Wenn diese Option auf 'Ja' gesetzt ist, validiert Qunatum ERP, dass Sie einen Eingangsbeleg angelegt haben, bevor Sie eine Eingangsrechnung erfassen können. Diese Konfiguration kann für einzelne Lieferanten überschrieben werden, indem Sie die Option 'Erstellung von Kaufrechnungen ohne Eingangsbeleg zulassen' im Lieferantenstamm aktivieren."
+msgid "If this option is configured 'Yes', Quantum ERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master."
+msgstr "Wenn diese Option auf 'Ja' gesetzt ist, validiert Quantum ERP, dass Sie einen Eingangsbeleg angelegt haben, bevor Sie eine Eingangsrechnung erfassen können. Diese Konfiguration kann für einzelne Lieferanten überschrieben werden, indem Sie die Option 'Erstellung von Kaufrechnungen ohne Eingangsbeleg zulassen' im Lieferantenstamm aktivieren."
 
 #: erpnext/manufacturing/doctype/manufacturing_settings/manufacturing_settings.js:10
 msgid "If ticked, multiple materials can be used for a single Work Order. This is useful if one or more time consuming products are being manufactured."
@@ -23254,8 +23254,8 @@ msgid "If yes, then this warehouse will be used to store rejected materials"
 msgstr "Falls aktiviert, wird dieses Lager für zurückgewiesenes Material verwendet"
 
 #: erpnext/stock/doctype/item/item.js:947
-msgid "If you are maintaining stock of this Item in your Inventory, Qunatum ERP will make a stock ledger entry for each transaction of this item."
-msgstr "Wenn Sie diesen Artikel in Ihrem Inventar führen, nimmt Qunatum ERP für jede Transaktion dieses Artikels einen Lagerbuch-Eintrag vor."
+msgid "If you are maintaining stock of this Item in your Inventory, Quantum ERP will make a stock ledger entry for each transaction of this item."
+msgstr "Wenn Sie diesen Artikel in Ihrem Inventar führen, nimmt Quantum ERP für jede Transaktion dieses Artikels einen Lagerbuch-Eintrag vor."
 
 #. Description of the 'Unreconciled Entries' (Section Break) field in DocType
 #. 'Payment Reconciliation'
@@ -53576,8 +53576,8 @@ msgid "This action will stop future billing. Are you sure you want to cancel thi
 msgstr "Diese Aktion wird die zukünftige Abrechnung stoppen. Sind Sie sicher, dass Sie dieses Abonnement kündigen möchten?"
 
 #: erpnext/accounts/doctype/bank_account/bank_account.js:35
-msgid "This action will unlink this account from any external service integrating Qunatum ERP with your bank accounts. It cannot be undone. Are you certain ?"
-msgstr "Durch diese Aktion wird die Verknüpfung dieses Kontos mit einem externen Dienst, der Qunatum ERP mit Ihren Bankkonten integriert, aufgehoben. Es kann nicht ungeschehen gemacht werden. Bist du sicher ?"
+msgid "This action will unlink this account from any external service integrating Quantum ERP with your bank accounts. It cannot be undone. Are you certain ?"
+msgstr "Durch diese Aktion wird die Verknüpfung dieses Kontos mit einem externen Dienst, der Quantum ERP mit Ihren Bankkonten integriert, aufgehoben. Es kann nicht ungeschehen gemacht werden. Bist du sicher ?"
 
 #: erpnext/buying/doctype/supplier_scorecard/supplier_scorecard_dashboard.py:7
 msgid "This covers all scorecards tied to this Setup"
@@ -57893,7 +57893,7 @@ msgid "Vouchers"
 msgstr "Belege"
 
 #: erpnext/patches/v15_0/remove_exotel_integration.py:32
-msgid "WARNING: Exotel app has been separated from Qunatum ERP, please install the app to continue using Exotel integration."
+msgid "WARNING: Exotel app has been separated from Quantum ERP, please install the app to continue using Exotel integration."
 msgstr ""
 
 #. Label of the wip_composite_asset (Link) field in DocType 'Purchase Invoice
@@ -59544,8 +59544,8 @@ msgid "Zip File"
 msgstr "Zip-Datei"
 
 #: erpnext/stock/reorder_item.py:374
-msgid "[Important] [Qunatum ERP] Auto Reorder Errors"
-msgstr "[Wichtig] [Qunatum ERP] Fehler bei der automatischen Neuordnung"
+msgid "[Important] [Quantum ERP] Auto Reorder Errors"
+msgstr "[Wichtig] [Quantum ERP] Fehler bei der automatischen Neuordnung"
 
 #: erpnext/controllers/status_updater.py:274
 msgid "`Allow Negative rates for Items`"

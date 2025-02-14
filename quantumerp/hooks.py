@@ -1,5 +1,5 @@
 app_name = "quantumerp"
-app_title = "Qunatum ERP"
+app_title = "Quantum ERP"
 app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
@@ -480,7 +480,7 @@ default_mail_footer = """
 	<span>
 		Sent via
 		<a class="text-muted" href="https://erp-quantum.com?source=via_email_footer" target="_blank">
-			Qunatum ERP
+			Quantum ERP
 		</a>
 	</span>
 """
@@ -603,7 +603,7 @@ user_privacy_documents = [
 	},
 ]
 
-# Qunatum ERP doctypes for Global Search
+# Quantum ERP doctypes for Global Search
 global_search_doctypes = {
 	"Default": [
 		{"doctype": "Customer", "index": 0},
